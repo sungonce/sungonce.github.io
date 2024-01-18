@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Seongwon Lee"
-description              : "Research Scientist at ETRI (Military Service)"
+description              : "Research Scientist @ETRI (Military Service)"
 repository               : "sungonce/sungonce.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Seongwon Lee"
   avatar           : "images/seongwonlee.jpg"
-  bio              : "Visual Intelligence Lab @ETRI"
+  bio              :
   location         : "Daejeon, South Korea"
   cv               : "https://drive.google.com/file/d/11JOSPNvPueqDmAP_dmNoHoNHaKVTLIqX/view?usp=sharing"
   employer         :
