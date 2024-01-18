@@ -23,17 +23,16 @@ I am interested in building algorithms and machines that can understand the worl
 
 
 # 🎉 News
-- *2023.12*: &nbsp;	📃 One paper has been accepted in BMVC 2023.
-- *2022.02*: &nbsp; 📃 One paper has been accepted at CVPR 2023.
-- *2022.02*: &nbsp; 🎉 I won the Qualcomm Innovation Fellowship 2022.
-- *2022.02*: &nbsp; 🎉 I won the Excellence Vision Research Award at 1ˢᵗ Yonsei AI Workshop.
-- *2022.02*: &nbsp; 🎉 A paper titled “Correlation Verification for Image Retrieval” has been selected for an **oral presentation** in CVPR 2022.
-- *2022.02*: &nbsp; 📃 Two papers have been accepted at CVPR 2022. 
-- *2022.02*: &nbsp; 📃 One paper has been accepted at ICCV 2021. 
+- *(Aug 2023)* 📃 One paper has been accepted in BMVC 2023.
+- *(Feb 2023)* 📃 One paper has been accepted at CVPR 2023.
+- *(Nov 2022)* 🎉 I won the Qualcomm Innovation Fellowship 2022.
+- *(Oct 2022)* 🎉 I won the Excellence Vision Research Award at 1ˢᵗ Yonsei AI Workshop.
+- *(Mar 2022)* 🎉 A paper titled “Correlation Verification for Image Retrieval” has been selected for an **oral presentation** in CVPR 2022.
+- *(Mar 2022)* 📃 Two papers have been accepted at CVPR 2022. 
+- *(Jul 2021)* 📃 One paper has been accepted at ICCV 2021. 
 
 # 📚 Publications 
 [Google Scholar full list](https://scholar.google.com/citations?hl=en&user=wKlb8_gAAAAJ)
-
 
 * ## RoomNeRF: Representing Empty Room as Neural Radiance Fields for View Synthesis <br>
   Mangyu Kong, **Seongwon Lee**, Euntai Kim <br>
@@ -65,38 +64,38 @@ I am interested in building algorithms and machines that can understand the worl
   [[page]](https://openaccess.thecvf.com/content/ICCV2021/html/Seong_Hierarchical_Memory_Matching_Network_for_Video_Object_Segmentation_ICCV_2021_paper.html) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Seong_Hierarchical_Memory_Matching_Network_for_Video_Object_Segmentation_ICCV_2021_paper.pdf) [[supp]](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Seong_Hierarchical_Memory_Matching_ICCV_2021_supplemental.pdf) [[arXiv]](http://arxiv.org/abs/2109.11404)&nbsp;&nbsp;[![](https://img.shields.io/github/stars/Hongje/HMMN)](https://github.com/Hongje/HMMN)
 
 # 🎖 Honors and Awards
-- *2022.12* [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners)
+- *(Dec 2022)* [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners)
   - Winner ($4,000) - *Correlation Verification for Image Retrieval* (CVPR 2022)
-- *2022.04* 1st Yonsei AI Workshop (2022)
+- *(Apr 2022)* 1st Yonsei AI Workshop (2022)
   - Excellence Vision Research Award - *Correlation Verification for Image Retrieval* (CVPR 2022)
-- *2017.06* 2023-1 Graduate School of Yonsei University Thesis Award (2023)
+- *(Jun 2017)* 2023-1 Graduate School of Yonsei University Thesis Award (2023)
   - Encouragement Award - *Correlation Verification for Image Retrieval* (CVPR 2022)
 
 # 💼 Projects
-- (Aug 2023 - Current) Development of AI Autonomy and Knowledge Enhancement for AI Agent Collaboration
+- *(Aug 2023 - Current)* Development of AI Autonomy and Knowledge Enhancement for AI Agent Collaboration
   - Funding from Information & Communications Technology Promotion (IITP)
-- (Apr 2022 - Dec 2022) Development of Deep Learning-Based Fine-Matching Technology using ToF Depth Sensor
+- *(Apr 2022 - Dec 2022)* Development of Deep Learning-Based Fine-Matching Technology using ToF Depth Sensor
   - Funding from LG Electronics
-- (May 2021- Dec 2021) Development of Deep Learning-Based Image Retrieval Technology using ToF Depth
+- *(May 2021- Dec 2021)* Development of Deep Learning-Based Image Retrieval Technology using ToF Depth
 Sensor
   - Funding from LG Electronics
-- (Apr 2020 - Feb 2021) Development of Front-Down SLAM Technology Based on ToF Depth Sensor LG Electronics
+- *(Apr 2020 - Feb 2021)* Development of Front-Down SLAM Technology Based on ToF Depth Sensor LG Electronics
   - Funding from LG Electronics
-- (Apr 2019 - Dec 2019) Development of Depth Map Generation Technology using Continuous Stereo Images
+- *(Apr 2019 - Dec 2019)* Development of Depth Map Generation Technology using Continuous Stereo Images
   - Funding from Hyundai AutoEver
-- (Oct 2017 - Feb 2019) Development of Integration Module Technology for Localization and Autonomous Driving Control Based on Multi-modal Sensor for Wheel Drive Service Robot
+- *(Oct 2017 - Feb 2019)* Development of Integration Module Technology for Localization and Autonomous Driving Control Based on Multi-modal Sensor for Wheel Drive Service Robot
   - Funding from Ministry of Trade, Industry and Energy (MOTIE)
-- (Oct 2016 - Oct 2017) Development of Robot Autonomous Driving Technology using Laser Scanner
+- *(Oct 2016 - Oct 2017)* Development of Robot Autonomous Driving Technology using Laser Scanner
   - Funding from  Hitachi-LG Data Storage
-- (May 2016 - Apr 2020) Development of Robot Intelligence Technology for Mobility with Learning Capability
+- *(May 2016 - Apr 2020)* Development of Robot Intelligence Technology for Mobility with Learning Capability
 toward Robust and Seamless Indoor and Outdoor Autonomous Navigation
   - Funding from Ministry of Trade, Industry and Energy (MOTIE)
 
-# 💻  Academic Services
+# 💻 Academic Services
 - Invited Talks
-   - *2023. 01*, Recent Advances in Computer Vision: Foundation Models, Vision-Language Models and 3D Neural Representations
+   - *(Jan 2023)* Recent Advances in Computer Vision: Foundation Models, Vision-Language Models and 3D Neural Representations
       - School of Electrical and Electronic Engineering, Yonsei University
-   - *2022. 11*, Introduction to Image Retrieval: Local Features & beyond
+   - *(Sep 2022)* Introduction to Image Retrieval: Local Features & beyond
       - Department of Electronic Engineering, Jeonbuk National University
 - Reviewer
    - Conference
