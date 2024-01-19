@@ -25,9 +25,9 @@ I am interested in building algorithms and machines that can understand the worl
 # 🎉 News
 - *(Aug 2023)* 📃 One paper has been accepted in BMVC 2023.
 - *(Feb 2023)* 📃 One paper has been accepted at CVPR 2023.
-- *(Nov 2022)* 🎉 I won the Qualcomm Innovation Fellowship 2022.
-- *(Oct 2022)* 🎉 I won the Excellence Vision Research Award at 1ˢᵗ Yonsei AI Workshop.
-- *(Mar 2022)* 🎉 A paper titled “Correlation Verification for Image Retrieval” has been selected for an **oral presentation** in CVPR 2022.
+- *(Nov 2022)* 🎉 I won the [Qualcomm Innovation Fellowship 2022](https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners).
+- *(Oct 2022)* 🎉 I won the Excellence Vision Research Award at the 1ˢᵗ Yonsei AI Workshop.
+- *(Mar 2022)* 🎉 A paper titled “Correlation Verification for Image Retrieval” has been selected for **oral presentation** in CVPR 2022.
 - *(Mar 2022)* 📃 Two papers have been accepted at CVPR 2022. 
 - *(Jul 2021)* 📃 One paper has been accepted at ICCV 2021. 
 
@@ -47,15 +47,16 @@ I am interested in building algorithms and machines that can understand the worl
 * ## Correlation Verification for Image Retrieval <br>
   **Seongwon Lee**, Hongje Seong, Suhyeon Lee, Euntai Kim <br>
   IEEE/CVF Conference on Computer Vision and Pattern Recognition (<span style="color:skyblue">**CVPR**</span>) Jun, 2022 <br>
-  <span style="color:#000000;background-color:#00ffff"> Selected as an **Oral Presentation**</span> (Oral Presentation Acceptance Rate: 342/8161 ≈ 4.2%) <br>
-  <span style="color:#000000;background-color:#00ff80"> [**Winner**](https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners) at Qualcomm Innovation Fellowship 2022</span><br>
-  <span style="color:#000000;background-color:#00ff80"> Excellence Vision Research Award at 1ˢᵗ Yonsei AI Workshop</span><br>
+  <span style="color:#000000;background-color:#00ffff"> Selected as an **Oral Presentation**</span> (Oral Presentation Acceptance Rate: 342/8161 ≈ **4.2%**) <br>
+  <span style="color:#000000;background-color:#00ff80"> **Winner** at [Qualcomm Innovation Fellowship 2022](https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners)</span><br>
+  <span style="color:#000000;background-color:#00ff80"> **Excellence Vision Research Award** at 1ˢᵗ Yonsei AI Workshop</span><br>
+  <span style="color:#000000;background-color:#00ff80"> **Encouragement Award** at 2023-1 Graduate School of Yonsei University Thesis Award</span><br>
   [[page]](https://openaccess.thecvf.com/content/CVPR2022/html/Lee_Correlation_Verification_for_Image_Retrieval_CVPR_2022_paper.html) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_Correlation_Verification_for_Image_Retrieval_CVPR_2022_paper.pdf) [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Lee_Correlation_Verification_for_CVPR_2022_supplemental.pdf) [[arXiv]](http://arxiv.org/abs/2204.01458)&nbsp;&nbsp;[![](https://img.shields.io/github/stars/sungonce/CVNet)](https://github.com/sungonce/CVNet)
 
 * ## WildNet: Learning Domain Generalized Semantic Segmentation from the Wild <br>
   Suhyeon Lee, Hongje Seong, **Seongwon Lee**, Euntai Kim <br>
   IEEE/CVF Conference on Computer Vision and Pattern Recognition (<span style="color:skyblue">**CVPR**</span>) Jun, 2022 <br>
-  <span style="color:#000000;background-color:#00ff80"> [**Finalist**](https://www.qualcomm.com/research/university-relations/innovation-fellowship/finalists) at Qualcomm Innovation Fellowship 2022</span><br>
+  <span style="color:#000000;background-color:#00ff80"> **Finalist** at [Qualcomm Innovation Fellowship 2022](https://www.qualcomm.com/research/university-relations/innovation-fellowship/finalists)</span><br>
   [[page]](https://openaccess.thecvf.com/content/CVPR2022/html/Lee_WildNet_Learning_Domain_Generalized_Semantic_Segmentation_From_the_Wild_CVPR_2022_paper.html) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_WildNet_Learning_Domain_Generalized_Semantic_Segmentation_From_the_Wild_CVPR_2022_paper.pdf) [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Lee_WildNet_Learning_Domain_CVPR_2022_supplemental.pdf) [[arXiv]](http://arxiv.org/abs/2204.01446)&nbsp;&nbsp;[![](https://img.shields.io/github/stars/suhyeonlee/WildNet)](https://github.com/suhyeonlee/WildNet)
 
 * ## Hierarchical Memory Matching Network for Video Object Segmentation <br>
@@ -64,12 +65,12 @@ I am interested in building algorithms and machines that can understand the worl
   [[page]](https://openaccess.thecvf.com/content/ICCV2021/html/Seong_Hierarchical_Memory_Matching_Network_for_Video_Object_Segmentation_ICCV_2021_paper.html) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Seong_Hierarchical_Memory_Matching_Network_for_Video_Object_Segmentation_ICCV_2021_paper.pdf) [[supp]](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Seong_Hierarchical_Memory_Matching_ICCV_2021_supplemental.pdf) [[arXiv]](http://arxiv.org/abs/2109.11404)&nbsp;&nbsp;[![](https://img.shields.io/github/stars/Hongje/HMMN)](https://github.com/Hongje/HMMN)
 
 # 🎖 Honors and Awards
-- *(Dec 2022)* [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners)
-  - Winner ($4,000) - *Correlation Verification for Image Retrieval* (CVPR 2022)
-- *(Apr 2022)* 1st Yonsei AI Workshop (2022)
-  - Excellence Vision Research Award - *Correlation Verification for Image Retrieval* (CVPR 2022)
-- *(Jun 2017)* 2023-1 Graduate School of Yonsei University Thesis Award (2023)
+- *(Jul 2023)* 2023-1 Graduate School of Yonsei University Thesis Award (2023)
   - Encouragement Award - *Correlation Verification for Image Retrieval* (CVPR 2022)
+- *(Nov 2022)* [Qualcomm Innovation Fellowship 2022](https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners)
+  - Winner ($4,000) - *Correlation Verification for Image Retrieval* (CVPR 2022)
+- *(Oct 2022)* 1st Yonsei AI Workshop (2022)
+  - Excellence Vision Research Award - *Correlation Verification for Image Retrieval* (CVPR 2022)
 
 # 💼 Projects
 - *(Aug 2023 - Current)* Development of AI Autonomy and Knowledge Enhancement for AI Agent Collaboration
