@@ -23,11 +23,13 @@ I am interested in building algorithms and machines that can understand the worl
 
 
 # 🎉 News
+- *(Jan 2024)* 🧑🏻‍🏫 Giving an invited talk about recent computer vision research trends @ Yonsei University. [[slide]](https://drive.google.com/file/d/1AS2djykCUuBL5o9tbf6CG_T8U4xLkZlB/view?usp=drive_link)
+- *(Oct 2023)* 🧑🏻‍🏫  Giving an invited talk about image retrieval @ Jeonbuk National University. [[slide]](https://drive.google.com/file/d/1fW5CCr2GB1FcbikLkqMRpAipIjUtzOMP/view?usp=drive_link) 
 - *(Aug 2023)* 📃 One paper has been accepted in BMVC 2023.
 - *(Feb 2023)* 📃 One paper has been accepted at CVPR 2023.
 - *(Nov 2022)* 🎉 I won the [Qualcomm Innovation Fellowship 2022](https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners).
 - *(Oct 2022)* 🎉 I won the Excellence Vision Research Award at the 1ˢᵗ Yonsei AI Workshop.
-- *(Mar 2022)* 🎉 A paper titled “Correlation Verification for Image Retrieval” has been selected for **oral presentation** in CVPR 2022.
+- *(Mar 2022)* 🎉 A paper titled “Correlation Verification for Image Retrieval” has been selected for **Oral presentation** in CVPR 2022.
 - *(Mar 2022)* 📃 Two papers have been accepted at CVPR 2022. 
 - *(Jul 2021)* 📃 One paper has been accepted at ICCV 2021. 
 
@@ -42,7 +44,7 @@ I am interested in building algorithms and machines that can understand the worl
 * ## Revisiting Self-Similarity: Structural Embedding for Image Retrieval <br>
   **Seongwon Lee**, Suhyeon Lee, Hongje Seong, Euntai Kim <br>
   IEEE/CVF Conference on Computer Vision and Pattern Recognition (<span style="color:skyblue">**CVPR**</span>) Jun, 2023 <br>
-  [[page]](https://openaccess.thecvf.com/content/CVPR2023/html/Lee_Revisiting_Self-Similarity_Structural_Embedding_for_Image_Retrieval_CVPR_2023_paper.html) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Lee_Revisiting_Self-Similarity_Structural_Embedding_for_Image_Retrieval_CVPR_2023_paper.pdf) [[supp]](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Lee_Revisiting_Self-Similarity_Structural_CVPR_2023_supplemental.pdf)&nbsp;&nbsp;[![](https://img.shields.io/github/stars/sungonce/SENet)](https://github.com/sungonce/SENet)
+  [[page]](https://openaccess.thecvf.com/content/CVPR2023/html/Lee_Revisiting_Self-Similarity_Structural_Embedding_for_Image_Retrieval_CVPR_2023_paper.html) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Lee_Revisiting_Self-Similarity_Structural_Embedding_for_Image_Retrieval_CVPR_2023_paper.pdf) [[supp]](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Lee_Revisiting_Self-Similarity_Structural_CVPR_2023_supplemental.pdf) [[poster]](https://cvpr2023.thecvf.com/media/PosterPDFs/CVPR%202023/22752.png?t=1686640998.037478) [[video]](https://youtu.be/1_Kqu25roa4)&nbsp;&nbsp;[![](https://img.shields.io/github/stars/sungonce/SENet)](https://github.com/sungonce/SENet) 
 
 * ## Correlation Verification for Image Retrieval <br>
   **Seongwon Lee**, Hongje Seong, Suhyeon Lee, Euntai Kim <br>
@@ -51,7 +53,7 @@ I am interested in building algorithms and machines that can understand the worl
   <span style="color:#000000;background-color:#00ff80"> **Winner** at [Qualcomm Innovation Fellowship 2022](https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners)</span><br>
   <span style="color:#000000;background-color:#00ff80"> **Excellence Vision Research Award** at 1ˢᵗ Yonsei AI Workshop</span><br>
   <span style="color:#000000;background-color:#00ff80"> **Encouragement Award** at 2023-1 Graduate School of Yonsei University Thesis Award</span><br>
-  [[page]](https://openaccess.thecvf.com/content/CVPR2022/html/Lee_Correlation_Verification_for_Image_Retrieval_CVPR_2022_paper.html) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_Correlation_Verification_for_Image_Retrieval_CVPR_2022_paper.pdf) [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Lee_Correlation_Verification_for_CVPR_2022_supplemental.pdf) [[arXiv]](http://arxiv.org/abs/2204.01458)&nbsp;&nbsp;[![](https://img.shields.io/github/stars/sungonce/CVNet)](https://github.com/sungonce/CVNet)
+  [[page]](https://openaccess.thecvf.com/content/CVPR2022/html/Lee_Correlation_Verification_for_Image_Retrieval_CVPR_2022_paper.html) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_Correlation_Verification_for_Image_Retrieval_CVPR_2022_paper.pdf) [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Lee_Correlation_Verification_for_CVPR_2022_supplemental.pdf) [[poster]](https://drive.google.com/file/d/1qZ4Ti-4pB249gR60XN7f2OzS-8lL4vQ4/view?usp=drive_link) [[video]](https://youtu.be/Yb8qc1UtTvc) [[slide]](https://drive.google.com/file/d/1bT1WjrZrSAexQZ-eUZuFohoJ2o0rX2O0/view?usp=drive_link) [[arXiv]](http://arxiv.org/abs/2204.01458)&nbsp;&nbsp;[![](https://img.shields.io/github/stars/sungonce/CVNet)](https://github.com/sungonce/CVNet)
 
 * ## WildNet: Learning Domain Generalized Semantic Segmentation from the Wild <br>
   Suhyeon Lee, Hongje Seong, **Seongwon Lee**, Euntai Kim <br>
@@ -77,10 +79,9 @@ I am interested in building algorithms and machines that can understand the worl
   - Funding from Information & Communications Technology Promotion (IITP)
 - *(Apr 2022 - Dec 2022)* Development of Deep Learning-Based Fine-Matching Technology using ToF Depth Sensor
   - Funding from LG Electronics
-- *(May 2021- Dec 2021)* Development of Deep Learning-Based Image Retrieval Technology using ToF Depth
-Sensor
+- *(May 2021- Dec 2021)* Development of Deep Learning-Based Image Retrieval Technology using ToF Depth Sensor
   - Funding from LG Electronics
-- *(Apr 2020 - Feb 2021)* Development of Front-Down SLAM Technology Based on ToF Depth Sensor LG Electronics
+- *(Apr 2020 - Feb 2021)* Development of Front-Down SLAM Technology Based on ToF Depth Sensor
   - Funding from LG Electronics
 - *(Apr 2019 - Dec 2019)* Development of Depth Map Generation Technology using Continuous Stereo Images
   - Funding from Hyundai AutoEver
@@ -94,9 +95,9 @@ toward Robust and Seamless Indoor and Outdoor Autonomous Navigation
 
 # 💻 Academic Services
 - Invited Talks
-   - *(Jan 2023)* Recent Advances in Computer Vision: Foundation Models, Vision-Language Models and 3D Neural Representations
+   - *(Jan 2024)* Recent Advances in Computer Vision: Foundation Models, Vision-Language Models and 3D Neural Representations [[slide]](https://drive.google.com/file/d/1AS2djykCUuBL5o9tbf6CG_T8U4xLkZlB/view?usp=drive_link)
       - School of Electrical and Electronic Engineering, Yonsei University
-   - *(Sep 2022)* Introduction to Image Retrieval: Local Features & beyond
+   - *(Oct 2023)* Introduction to Image Retrieval: Local Features & beyond [[slide]](https://drive.google.com/file/d/1fW5CCr2GB1FcbikLkqMRpAipIjUtzOMP/view?usp=drive_link)
       - Department of Electronic Engineering, Jeonbuk National University
 - Reviewer
    - Conference
@@ -105,6 +106,7 @@ toward Robust and Seamless Indoor and Outdoor Autonomous Navigation
       - IEEE/CVF International Conference on Computer Vision (ICCV)
       - IEEE International Conference on Robotics and Automation (ICRA)
       - IEEE International Conference on Robotics and Automation (IROS)
+      - Asian Conference on Computer Vision (ACCV)
    - Journal
       - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
       - IEEE Transactions on Automation Science and Engineering (T-ASE)
