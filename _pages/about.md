@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm **Seongwon Lee**, a _researcher_ at [ETRI](https://www.etri.re.kr/eng/main/main.etri). I received my Ph.D. and B.S. degrees in [Electrical and Electronic Engineering](https://ee.yonsei.ac.kr/ee_en/index.do) from [Yonsei University](https://www.yonsei.ac.kr/en_sc/) in 2023 and 2016, respectively, advised by Professor [Euntai Kim](https://cilab.yonsei.ac.kr/). 
+I'm **Seongwon Lee**, a _researcher_ in the [Visual Intelligence Laboratory](https://etri-visualintelligence.github.io/) at [ETRI](https://www.etri.re.kr/eng/main/main.etri). I previously received my Ph.D. and B.S. degrees in [Electrical and Electronic Engineering](https://ee.yonsei.ac.kr/ee_en/index.do) from [Yonsei University](https://www.yonsei.ac.kr/en_sc/) in 2023 and 2016, respectively, advised by Professor [Euntai Kim](https://cilab.yonsei.ac.kr/). 
 
 I am interested in building algorithms and machines that can understand the world and communicate with humans. My research focuses on learning deep networks that can solve a wide range of problems using a few general interfaces.
 
@@ -33,8 +33,12 @@ I am interested in building algorithms and machines that can understand the worl
 - *(Mar 2022)* 📃 Two papers have been accepted at CVPR 2022. 
 - *(Jul 2021)* 📃 One paper has been accepted at ICCV 2021. 
 
-# 📚 Publications 
+# 📚 Selected Publications 
 [Google Scholar full list](https://scholar.google.com/citations?hl=en&user=wKlb8_gAAAAJ)
+
+* ## Correlation Verification for Image Retrieval and Its Memory Footprint Optimization <br>
+  **Seongwon Lee**, Hongje Seong, Suhyeon Lee, Euntai Kim <br>
+  Under Review, Transactions on Pattern Analysis and Machine Intelligence (<span style="color:skyblue">**TPAMI**</span>)
 
 * ## RoomNeRF: Representing Empty Room as Neural Radiance Fields for View Synthesis <br>
   Mangyu Kong, **Seongwon Lee**, Euntai Kim <br>
@@ -49,16 +53,16 @@ I am interested in building algorithms and machines that can understand the worl
 * ## Correlation Verification for Image Retrieval <br>
   **Seongwon Lee**, Hongje Seong, Suhyeon Lee, Euntai Kim <br>
   IEEE/CVF Conference on Computer Vision and Pattern Recognition (<span style="color:skyblue">**CVPR**</span>) Jun, 2022 <br>
-  <span style="color:#000000;background-color:#00ffff"> Selected as an **Oral Presentation**</span> (Oral Presentation Acceptance Rate: 342/8161 ≈ **4.2%**) <br>
-  <span style="color:#000000;background-color:#00ff80"> **Winner** at [Qualcomm Innovation Fellowship 2022](https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners)</span><br>
-  <span style="color:#000000;background-color:#00ff80"> **Excellence Vision Research Award** at 1ˢᵗ Yonsei AI Workshop</span><br>
-  <span style="color:#000000;background-color:#00ff80"> **Encouragement Award** at 2023-1 Graduate School of Yonsei University Thesis Award</span><br>
+  <span style="color:#000000;background-color:#CAF4FF"> Selected as an **Oral Presentation**</span> (Oral Presentation Acceptance Rate: 342/8161 ≈ **4.2%**) <br>
+  <span style="color:#000000;background-color:#DCFFB7"> **Winner** at [Qualcomm Innovation Fellowship 2022](https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners)</span><br>
+  <span style="color:#000000;background-color:#DCFFB7"> **Excellence Vision Research Award** at 1ˢᵗ Yonsei AI Workshop</span><br>
+  <span style="color:#000000;background-color:#DCFFB7"> **Encouragement Award** at 2023-1 Graduate School of Yonsei University Thesis Award</span><br>
   [[page]](https://openaccess.thecvf.com/content/CVPR2022/html/Lee_Correlation_Verification_for_Image_Retrieval_CVPR_2022_paper.html) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_Correlation_Verification_for_Image_Retrieval_CVPR_2022_paper.pdf) [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Lee_Correlation_Verification_for_CVPR_2022_supplemental.pdf) [[poster]](https://drive.google.com/file/d/1qZ4Ti-4pB249gR60XN7f2OzS-8lL4vQ4/view?usp=drive_link) [[video]](https://youtu.be/Yb8qc1UtTvc) [[slide]](https://drive.google.com/file/d/1bT1WjrZrSAexQZ-eUZuFohoJ2o0rX2O0/view?usp=drive_link) [[arXiv]](http://arxiv.org/abs/2204.01458)&nbsp;&nbsp;[![](https://img.shields.io/github/stars/sungonce/CVNet)](https://github.com/sungonce/CVNet)
 
 * ## WildNet: Learning Domain Generalized Semantic Segmentation from the Wild <br>
   Suhyeon Lee, Hongje Seong, **Seongwon Lee**, Euntai Kim <br>
   IEEE/CVF Conference on Computer Vision and Pattern Recognition (<span style="color:skyblue">**CVPR**</span>) Jun, 2022 <br>
-  <span style="color:#000000;background-color:#00ff80"> **Finalist** at [Qualcomm Innovation Fellowship 2022](https://www.qualcomm.com/research/university-relations/innovation-fellowship/finalists)</span><br>
+  <span style="color:#000000;background-color:#DCFFB7"> **Finalist** at [Qualcomm Innovation Fellowship 2022](https://www.qualcomm.com/research/university-relations/innovation-fellowship/finalists)</span><br>
   [[page]](https://openaccess.thecvf.com/content/CVPR2022/html/Lee_WildNet_Learning_Domain_Generalized_Semantic_Segmentation_From_the_Wild_CVPR_2022_paper.html) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_WildNet_Learning_Domain_Generalized_Semantic_Segmentation_From_the_Wild_CVPR_2022_paper.pdf) [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Lee_WildNet_Learning_Domain_CVPR_2022_supplemental.pdf) [[arXiv]](http://arxiv.org/abs/2204.01446)&nbsp;&nbsp;[![](https://img.shields.io/github/stars/suhyeonlee/WildNet)](https://github.com/suhyeonlee/WildNet)
 
 * ## Hierarchical Memory Matching Network for Video Object Segmentation <br>
