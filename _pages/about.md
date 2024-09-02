@@ -17,12 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm **Seongwon Lee**, a _researcher_ in the [Visual Intelligence Laboratory](https://etri-visualintelligence.github.io/) at [ETRI](https://www.etri.re.kr/eng/main/main.etri). I previously received my Ph.D. and B.S. degrees in [Electrical and Electronic Engineering](https://ee.yonsei.ac.kr/ee_en/index.do) from [Yonsei University](https://www.yonsei.ac.kr/en_sc/) in 2023 and 2016, respectively, advised by Professor [Euntai Kim](https://cilab.yonsei.ac.kr/). 
+I'm **Seongwon Lee**, a _assistant professor_ in the [School of Electrical Engineering](https://ee.kookmin.ac.kr) at [Kookmin University](https://english.kookmin.ac.kr). Previously, I was a researcher in the [Visual Intelligence Laboratory](https://etri-visualintelligence.github.io/) at [ETRI](https://www.etri.re.kr/eng/main/main.etri). Before that, I received my Ph.D. and B.S. degrees in [Electrical and Electronic Engineering](https://ee.yonsei.ac.kr/ee_en/index.do) from [Yonsei University](https://www.yonsei.ac.kr/en_sc/) in 2023 and 2016, respectively, advised by Professor [Euntai Kim](https://cilab.yonsei.ac.kr/). 
 
 I am interested in building algorithms and machines that can understand the world and communicate with humans. My research focuses on learning deep networks that can solve a wide range of problems using a few general interfaces.
 
 
 # 🎉 News
+- *(Aug 2024)* 🏫 I am starting my assistant professorship in Kookmin University.
+- *(Jul 2024)* 🏫 One paper has been accepted in ECCVW 2024.
 - *(Jan 2024)* 🧑🏻‍🏫 Giving an invited talk about recent computer vision research trends @ Yonsei University. [[slide]](https://drive.google.com/file/d/1AS2djykCUuBL5o9tbf6CG_T8U4xLkZlB/view?usp=drive_link)
 - *(Oct 2023)* 🧑🏻‍🏫  Giving an invited talk about image retrieval @ Jeonbuk National University. [[slide]](https://drive.google.com/file/d/1fW5CCr2GB1FcbikLkqMRpAipIjUtzOMP/view?usp=drive_link) 
 - *(Aug 2023)* 📃 One paper has been accepted in BMVC 2023.
@@ -39,6 +41,10 @@ I am interested in building algorithms and machines that can understand the worl
 * ## Correlation Verification for Image Retrieval and Its Memory Footprint Optimization <br>
   **Seongwon Lee**, Hongje Seong, Suhyeon Lee, Euntai Kim <br>
   Under Review, Transactions on Pattern Analysis and Machine Intelligence (<span style="color:skyblue">**TPAMI**</span>)
+
+* ## Language-only Efficient Prompt Learning for Zero-shot Composed Image Retrieval <br>
+  **Seongwon Lee**, Yong-Ju Lee <br>
+  European Conference on Computer Vision Workshop (<span style="color:skyblue">**ECCVW (Green-FOMO Workshop)**</span>) Oct, 2024 <br>
 
 * ## RoomNeRF: Representing Empty Room as Neural Radiance Fields for View Synthesis <br>
   Mangyu Kong, **Seongwon Lee**, Euntai Kim <br>
@@ -79,7 +85,7 @@ I am interested in building algorithms and machines that can understand the worl
   - Excellence Vision Research Award - *Correlation Verification for Image Retrieval* (CVPR 2022)
 
 # 💼 Projects
-- *(Aug 2023 - Current)* Development of AI Autonomy and Knowledge Enhancement for AI Agent Collaboration
+- *(Aug 2023 - Aug 2024)* Development of AI Autonomy and Knowledge Enhancement for AI Agent Collaboration
   - Funding from Information & Communications Technology Promotion (IITP)
 - *(Apr 2022 - Dec 2022)* Development of Deep Learning-Based Fine-Matching Technology using ToF Depth Sensor
   - Funding from LG Electronics

@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Seongwon Lee"
-description              : "Research Scientist @ ETRI (Military Service)"
+description              : "Assistant Professor @ Kookmin University"
 repository               : "sungonce/sungonce.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,12 +24,12 @@ author:
   name             : "Seongwon Lee"
   avatar           : "images/seongwonlee.jpg"
   bio              :
-  location         : "Daejeon, South Korea"
+  location         : "Seoul, South Korea"
   cv               : "https://drive.google.com/file/d/11JOSPNvPueqDmAP_dmNoHoNHaKVTLIqX/view?usp=sharing"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=wKlb8_gAAAAJ"
-  email            : "sungonce@etri.re.kr"
+  email            : "sungonce@kookmin.ac.kr"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
