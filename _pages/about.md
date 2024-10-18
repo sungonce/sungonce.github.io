@@ -23,12 +23,12 @@ I am interested in building algorithms and machines that can understand the worl
 
 
 # 🎉 News
-- *(Oct 2024)* 🏫 One papaer has been accepted in TIV.
-- *(Oct 2024)* 🏫 One papaer has been accepted in IEEE Access.
+- *(Oct 2024)* 📃 One papaer has been accepted in TIV.
+- *(Oct 2024)* 📃 One papaer has been accepted in IEEE Access.
 - *(Aug 2024)* 🏫 I am starting my assistant professorship in Kookmin University.
-- *(Jul 2024)* 🏫 One paper has been accepted in ECCVW 2024.
+- *(Jul 2024)* 📃 One paper has been accepted in ECCVW 2024.
 - *(Jan 2024)* 🧑🏻‍🏫 Giving an invited talk about recent computer vision research trends @ Yonsei University. [[slide]](https://drive.google.com/file/d/1AS2djykCUuBL5o9tbf6CG_T8U4xLkZlB/view?usp=drive_link)
-- *(Oct 2023)* 🧑🏻‍🏫  Giving an invited talk about image retrieval @ Jeonbuk National University. [[slide]](https://drive.google.com/file/d/1fW5CCr2GB1FcbikLkqMRpAipIjUtzOMP/view?usp=drive_link) 
+- *(Oct 2023)* 🧑🏻‍🏫 Giving an invited talk about image retrieval @ Jeonbuk National University. [[slide]](https://drive.google.com/file/d/1fW5CCr2GB1FcbikLkqMRpAipIjUtzOMP/view?usp=drive_link) 
 - *(Aug 2023)* 📃 One paper has been accepted in BMVC 2023.
 - *(Feb 2023)* 📃 One paper has been accepted at CVPR 2023.
 - *(Nov 2022)* 🎉 I won the [Qualcomm Innovation Fellowship 2022](https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners).
