@@ -23,6 +23,8 @@ I am interested in building algorithms and machines that can understand the worl
 
 
 # 🎉 News
+- *(Oct 2024)* 🏫 One papaer has been accepted in TIV.
+- *(Oct 2024)* 🏫 One papaer has been accepted in IEEE Access.
 - *(Aug 2024)* 🏫 I am starting my assistant professorship in Kookmin University.
 - *(Jul 2024)* 🏫 One paper has been accepted in ECCVW 2024.
 - *(Jan 2024)* 🧑🏻‍🏫 Giving an invited talk about recent computer vision research trends @ Yonsei University. [[slide]](https://drive.google.com/file/d/1AS2djykCUuBL5o9tbf6CG_T8U4xLkZlB/view?usp=drive_link)
@@ -41,6 +43,10 @@ I am interested in building algorithms and machines that can understand the worl
 * ## Correlation Verification for Image Retrieval and Its Memory Footprint Optimization <br>
   **Seongwon Lee**, Hongje Seong, Suhyeon Lee, Euntai Kim <br>
   Under Review, Transactions on Pattern Analysis and Machine Intelligence (<span style="color:skyblue">**TPAMI**</span>)
+
+* ## Location-Aware Transformer Network for Bird’s Eye View Semantic Segmentation <br>
+  Suhan Woo, Minseong Park, Youngjo Lee, **Seongwon Lee**, Euntai Kim <br>
+  Accepted, Transactions on Intelligent Vehicles (<span style="color:skyblue">**TIV**</span>)
 
 * ## Language-only Efficient Prompt Learning for Zero-shot Composed Image Retrieval <br>
   **Seongwon Lee**, Yong-Ju Lee <br>
