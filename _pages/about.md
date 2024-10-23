@@ -23,8 +23,8 @@ I am interested in building algorithms and machines that can understand the worl
 
 
 # 🎉 News
-- *(Oct 2024)* 📃 One papaer has been accepted in TIV.
-- *(Oct 2024)* 📃 One papaer has been accepted in IEEE Access.
+- *(Oct 2024)* 📃 One paper has been accepted in TIV.
+- *(Oct 2024)* 📃 One paper has been accepted in IEEE Access.
 - *(Aug 2024)* 🏫 I am starting my assistant professorship in Kookmin University.
 - *(Jul 2024)* 📃 One paper has been accepted in ECCVW 2024.
 - *(Jan 2024)* 🧑🏻‍🏫 Giving an invited talk about recent computer vision research trends @ Yonsei University. [[slide]](https://drive.google.com/file/d/1AS2djykCUuBL5o9tbf6CG_T8U4xLkZlB/view?usp=drive_link)
@@ -42,15 +42,15 @@ I am interested in building algorithms and machines that can understand the worl
 
 * ## Correlation Verification for Image Retrieval and Its Memory Footprint Optimization <br>
   **Seongwon Lee**, Hongje Seong, Suhyeon Lee, Euntai Kim <br>
-  Under Review, Transactions on Pattern Analysis and Machine Intelligence (<span style="color:skyblue">**TPAMI**</span>)
+  Under Review, Transactions on Pattern Analysis and Machine Intelligence (<span style="color:skyblue">**TPAMI**</span>) <br>
 
 * ## Location-Aware Transformer Network for Bird’s Eye View Semantic Segmentation <br>
   Suhan Woo, Minseong Park, Youngjo Lee, **Seongwon Lee**, Euntai Kim <br>
-  Accepted, Transactions on Intelligent Vehicles (<span style="color:skyblue">**TIV**</span>)
+  Accepted, Transactions on Intelligent Vehicles (<span style="color:skyblue">**TIV**</span>), Oct 2024 <br>
 
 * ## Language-only Efficient Prompt Learning for Zero-shot Composed Image Retrieval <br>
   **Seongwon Lee**, Yong-Ju Lee <br>
-  European Conference on Computer Vision Workshop (<span style="color:skyblue">**ECCVW (Green-FOMO Workshop)**</span>) Oct, 2024 <br>
+  European Conference on Computer Vision Workshop (<span style="color:skyblue">**ECCVW (Green-FOMO Workshop)**</span>), Oct 2024 <br>
 
 * ## RoomNeRF: Representing Empty Room as Neural Radiance Fields for View Synthesis <br>
   Mangyu Kong, **Seongwon Lee**, Euntai Kim <br>
@@ -59,12 +59,12 @@ I am interested in building algorithms and machines that can understand the worl
 
 * ## Revisiting Self-Similarity: Structural Embedding for Image Retrieval <br>
   **Seongwon Lee**, Suhyeon Lee, Hongje Seong, Euntai Kim <br>
-  IEEE/CVF Conference on Computer Vision and Pattern Recognition (<span style="color:skyblue">**CVPR**</span>) Jun, 2023 <br>
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition (<span style="color:skyblue">**CVPR**</span>), Jun 2023 <br>
   [[page]](https://openaccess.thecvf.com/content/CVPR2023/html/Lee_Revisiting_Self-Similarity_Structural_Embedding_for_Image_Retrieval_CVPR_2023_paper.html) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Lee_Revisiting_Self-Similarity_Structural_Embedding_for_Image_Retrieval_CVPR_2023_paper.pdf) [[supp]](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Lee_Revisiting_Self-Similarity_Structural_CVPR_2023_supplemental.pdf) [[poster]](https://cvpr2023.thecvf.com/media/PosterPDFs/CVPR%202023/22752.png?t=1686640998.037478) [[video]](https://youtu.be/1_Kqu25roa4)&nbsp;&nbsp;[![](https://img.shields.io/github/stars/sungonce/SENet)](https://github.com/sungonce/SENet) 
 
 * ## Correlation Verification for Image Retrieval <br>
   **Seongwon Lee**, Hongje Seong, Suhyeon Lee, Euntai Kim <br>
-  IEEE/CVF Conference on Computer Vision and Pattern Recognition (<span style="color:skyblue">**CVPR**</span>) Jun, 2022 <br>
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition (<span style="color:skyblue">**CVPR**</span>), Jun 2022 <br>
   <span style="color:#000000;background-color:#CAF4FF"> Selected as an **Oral Presentation**</span> (Oral Presentation Acceptance Rate: 342/8161 ≈ **4.2%**) <br>
   <span style="color:#000000;background-color:#DCFFB7"> **Winner** at [Qualcomm Innovation Fellowship 2022](https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners)</span><br>
   <span style="color:#000000;background-color:#DCFFB7"> **Excellence Vision Research Award** at 1ˢᵗ Yonsei AI Workshop</span><br>
@@ -73,13 +73,13 @@ I am interested in building algorithms and machines that can understand the worl
 
 * ## WildNet: Learning Domain Generalized Semantic Segmentation from the Wild <br>
   Suhyeon Lee, Hongje Seong, **Seongwon Lee**, Euntai Kim <br>
-  IEEE/CVF Conference on Computer Vision and Pattern Recognition (<span style="color:skyblue">**CVPR**</span>) Jun, 2022 <br>
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition (<span style="color:skyblue">**CVPR**</span>), Jun 2022 <br>
   <span style="color:#000000;background-color:#DCFFB7"> **Finalist** at [Qualcomm Innovation Fellowship 2022](https://www.qualcomm.com/research/university-relations/innovation-fellowship/finalists)</span><br>
   [[page]](https://openaccess.thecvf.com/content/CVPR2022/html/Lee_WildNet_Learning_Domain_Generalized_Semantic_Segmentation_From_the_Wild_CVPR_2022_paper.html) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_WildNet_Learning_Domain_Generalized_Semantic_Segmentation_From_the_Wild_CVPR_2022_paper.pdf) [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Lee_WildNet_Learning_Domain_CVPR_2022_supplemental.pdf) [[arXiv]](http://arxiv.org/abs/2204.01446)&nbsp;&nbsp;[![](https://img.shields.io/github/stars/suhyeonlee/WildNet)](https://github.com/suhyeonlee/WildNet)
 
 * ## Hierarchical Memory Matching Network for Video Object Segmentation <br>
   Hongje Seong, Seoung Wug Oh, Joon-Young Lee, **Seongwon Lee**, Suhyeon Lee, Euntai Kim <br>
-  IEEE/CVF International Conference on Computer Vision (<span style="color:skyblue">**ICCV**</span>) Oct, 2021 <br>
+  IEEE/CVF International Conference on Computer Vision (<span style="color:skyblue">**ICCV**</span>), Oct 2021 <br>
   [[page]](https://openaccess.thecvf.com/content/ICCV2021/html/Seong_Hierarchical_Memory_Matching_Network_for_Video_Object_Segmentation_ICCV_2021_paper.html) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Seong_Hierarchical_Memory_Matching_Network_for_Video_Object_Segmentation_ICCV_2021_paper.pdf) [[supp]](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Seong_Hierarchical_Memory_Matching_ICCV_2021_supplemental.pdf) [[arXiv]](http://arxiv.org/abs/2109.11404)&nbsp;&nbsp;[![](https://img.shields.io/github/stars/Hongje/HMMN)](https://github.com/Hongje/HMMN)
 
 # 🎖 Honors and Awards
