@@ -54,7 +54,7 @@ I am interested in building algorithms and machines that can understand the worl
 
 * ## RoomNeRF: Representing Empty Room as Neural Radiance Fields for View Synthesis <br>
   Mangyu Kong, **Seongwon Lee**, Euntai Kim <br>
-  The British Machine Vision Conference (<span style="color:skyblue">**BMVC**</span>) Nov, 2023 <br>
+  The British Machine Vision Conference (<span style="color:skyblue">**BMVC**</span>), Nov 2023 <br>
   [[page]](https://proceedings.bmvc2023.org/825/) [[paper]](https://papers.bmvc2023.org/0825.pdf) [[supp]](https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0825_supp.zip) [[poster]](https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0825_poster.pdf) [[video]](https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0825_video.mp4)
 
 * ## Revisiting Self-Similarity: Structural Embedding for Image Retrieval <br>
