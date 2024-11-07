@@ -23,6 +23,7 @@ I am interested in building algorithms and machines that can understand the worl
 
 
 # 🎉 News
+- *(Nov 2024)* 📃 One paper has been accepted in TPAMI
 - *(Oct 2024)* 📃 One paper has been accepted in TIV.
 - *(Oct 2024)* 📃 One paper has been accepted in IEEE Access.
 - *(Aug 2024)* 🏫 I am starting my assistant professorship in Kookmin University.
@@ -42,7 +43,7 @@ I am interested in building algorithms and machines that can understand the worl
 
 * ## Correlation Verification for Image Retrieval and Its Memory Footprint Optimization <br>
   **Seongwon Lee**, Hongje Seong, Suhyeon Lee, Euntai Kim <br>
-  Under Review, Transactions on Pattern Analysis and Machine Intelligence (<span style="color:skyblue">**TPAMI**</span>) <br>
+  Accepted, Transactions on Pattern Analysis and Machine Intelligence (<span style="color:skyblue">**TPAMI**</span>) <br>
 
 * ## Location-Aware Transformer Network for Bird’s Eye View Semantic Segmentation <br>
   Suhan Woo, Minseong Park, Youngjo Lee, **Seongwon Lee**, Euntai Kim <br>
