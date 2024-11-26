@@ -17,15 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm **Seongwon Lee**, a _assistant professor_ in the [School of Electrical Engineering](https://ee.kookmin.ac.kr) at [Kookmin University](https://english.kookmin.ac.kr). I am currently the _principal investigator_ of the [Computational Intelligence Lab (CILAB)](https://cilab.kookmin.ac.kr). Previously, I was a researcher in the [Visual Intelligence Laboratory](https://etri-visualintelligence.github.io/) at [ETRI](https://www.etri.re.kr/eng/main/main.etri). Before that, I received my Ph.D. and B.S. degrees in [Electrical and Electronic Engineering](https://ee.yonsei.ac.kr/ee_en/index.do) from [Yonsei University](https://www.yonsei.ac.kr/en_sc/) in 2023 and 2016, respectively, advised by Professor [Euntai Kim](https://cilab.yonsei.ac.kr/). 
+I'm **Seongwon Lee**, a _assistant professor_ at the [School of Electrical Engineering](https://ee.kookmin.ac.kr) at [Kookmin University](https://english.kookmin.ac.kr). I am currently the _principal investigator_ of the [Computational Intelligence Lab (CILAB)](https://cilab.kookmin.ac.kr). Previously, I was a researcher in the [Visual Intelligence Laboratory](https://etri-visualintelligence.github.io/) at [ETRI](https://www.etri.re.kr/eng/main/main.etri). Before that, I received my Ph.D. and B.S. degrees in [Electrical and Electronic Engineering](https://ee.yonsei.ac.kr/ee_en/index.do) from [Yonsei University](https://www.yonsei.ac.kr/en_sc/) in 2023 and 2016, respectively, advised by Professor [Euntai Kim](https://cilab.yonsei.ac.kr/). 
 
 I am interested in building algorithms and machines that can understand the world and communicate with humans. My research focuses on learning deep networks that can solve a wide range of problems using a few general interfaces.
 
 
 # 🎉 News
-- *(Nov 2024)* 📃 One paper has been accepted in TPAMI
-- *(Oct 2024)* 📃 One paper has been accepted in TIV.
-- *(Oct 2024)* 📃 One paper has been accepted in IEEE Access.
+- *(Nov 2024)* 📃 One paper has been accepted in TPAMI (IF=20.6).
+- *(Oct 2024)* 📃 One paper has been accepted in TIV (IF=14.0).
+- *(Oct 2024)* 📃 One paper has been accepted in IEEE Access (IF=3.4).
 - *(Aug 2024)* 🏫 I am starting my assistant professorship in Kookmin University.
 - *(Jul 2024)* 📃 One paper has been accepted in ECCVW 2024.
 - *(Jan 2024)* 🧑🏻‍🏫 Giving an invited talk about recent computer vision research trends @ Yonsei University. [[slide]](https://drive.google.com/file/d/1AS2djykCUuBL5o9tbf6CG_T8U4xLkZlB/view?usp=drive_link)
@@ -43,12 +43,14 @@ I am interested in building algorithms and machines that can understand the worl
 
 * ## Correlation Verification for Image Retrieval and Its Memory Footprint Optimization <br>
   **Seongwon Lee**, Hongje Seong, Suhyeon Lee, Euntai Kim <br>
-  Accepted, Transactions on Pattern Analysis and Machine Intelligence (<span style="color:skyblue">**TPAMI**</span>) <br>
-
+  Accepted, Transactions on Pattern Analysis and Machine Intelligence (<span style="color:skyblue">**TPAMI**</span>), Nov 2024 <br>
+  [[paper]](https://ieeexplore.ieee.org/document/10759842)
+  
 * ## Location-Aware Transformer Network for Bird’s Eye View Semantic Segmentation <br>
   Suhan Woo, Minseong Park, Youngjo Lee, **Seongwon Lee**, Euntai Kim <br>
   Accepted, Transactions on Intelligent Vehicles (<span style="color:skyblue">**TIV**</span>), Oct 2024 <br>
-
+  [[paper]](https://ieeexplore.ieee.org/document/10729649)
+  
 * ## Language-only Efficient Prompt Learning for Zero-shot Composed Image Retrieval <br>
   **Seongwon Lee**, Yong-Ju Lee <br>
   European Conference on Computer Vision Workshop (<span style="color:skyblue">**ECCVW (Green-FOMO Workshop)**</span>), Oct 2024 <br>
