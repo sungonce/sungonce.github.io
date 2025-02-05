@@ -23,21 +23,21 @@ I am interested in building algorithms and machines that can understand the worl
 
 
 # 🎉 News
-- *(Feb 2025)* 📃 One paper has been accepted to ICRA 2025.
-- *(Nov 2024)* 📃 One paper has been accepted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) (IF: 20.6, JCR Top 1%).
-- *(Oct 2024)* 📃 One paper has been accepted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TIV) (IF: 14.0, JCR Top 2%).
-- *(Oct 2024)* 📃 One paper has been accepted to IEEE Access (IF: 3.4, JCR Top 40%).
+- *(Feb 2025)* 📃 One paper is accepted to ICRA 2025.
+- *(Nov 2024)* 📃 One paper is accepted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) (IF: 20.6, JCR Top 1%).
+- *(Oct 2024)* 📃 One paper is accepted to IEEE Transactions on Intelligent Vehicles (TIV) (IF: 14.0, JCR Top 2%).
+- *(Oct 2024)* 📃 One paper is accepted to IEEE Access (IF: 3.4, JCR Top 40%).
 - *(Aug 2024)* 🏫 I am starting my assistant professorship in Kookmin University.
-- *(Jul 2024)* 📃 One paper has been accepted to ECCVW 2024.
+- *(Jul 2024)* 📃 One paper is accepted to ECCVW 2024.
 - *(Jan 2024)* 🧑🏻‍🏫 Giving an invited talk about recent computer vision research trends @ Yonsei University. [[slide]](https://drive.google.com/file/d/1AS2djykCUuBL5o9tbf6CG_T8U4xLkZlB/view?usp=drive_link)
 - *(Oct 2023)* 🧑🏻‍🏫 Giving an invited talk about image retrieval @ Jeonbuk National University. [[slide]](https://drive.google.com/file/d/1fW5CCr2GB1FcbikLkqMRpAipIjUtzOMP/view?usp=drive_link) 
-- *(Aug 2023)* 📃 One paper has been accepted to BMVC 2023.
-- *(Feb 2023)* 📃 One paper has been accepted to CVPR 2023.
+- *(Aug 2023)* 📃 One paper is accepted to BMVC 2023.
+- *(Feb 2023)* 📃 One paper is accepted to CVPR 2023.
 - *(Nov 2022)* 🎉 I won the [Qualcomm Innovation Fellowship 2022](https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners).
 - *(Oct 2022)* 🎉 I won the Excellence Vision Research Award at the 1ˢᵗ Yonsei AI Workshop.
 - *(Mar 2022)* 🎉 A paper titled “Correlation Verification for Image Retrieval” has been selected for **Oral presentation** in CVPR 2022.
-- *(Mar 2022)* 📃 Two papers have been accepted to CVPR 2022. 
-- *(Jul 2021)* 📃 One paper has been accepted to ICCV 2021. 
+- *(Mar 2022)* 📃 Two papers are accepted to CVPR 2022. 
+- *(Jul 2021)* 📃 One paper is accepted to ICCV 2021. 
 
 # 📚 Selected Publications 
 [Google Scholar full list](https://scholar.google.com/citations?hl=en&user=wKlb8_gAAAAJ), † denotes corresponding author
