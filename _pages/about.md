@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm **Seongwon Lee**, a _assistant professor_ at the [School of Electrical Engineering](https://ee.kookmin.ac.kr) at [Kookmin University](https://english.kookmin.ac.kr). I am currently the _principal investigator_ of the [Computational Intelligence Lab (CILAB)](https://cilab.kookmin.ac.kr). Previously, I was a researcher in the [Visual Intelligence Laboratory](https://etri-visualintelligence.github.io/) at [ETRI](https://www.etri.re.kr/eng/main/main.etri). Before that, I received my Ph.D. and B.S. degrees in [Electrical and Electronic Engineering](https://ee.yonsei.ac.kr/ee_en/index.do) from [Yonsei University](https://www.yonsei.ac.kr/en_sc/) in 2023 and 2016, respectively, advised by Professor [Euntai Kim](https://cilab.yonsei.ac.kr/). 
+I'm **Seongwon Lee**, a **_assistant professor_** at the [School of Electrical Engineering](https://ee.kookmin.ac.kr) at [Kookmin University](https://english.kookmin.ac.kr). I am currently the _principal investigator_ of the **[Computational Intelligence Lab (CILAB)](https://cilab.kookmin.ac.kr)**. Previously, I was a researcher in the [Visual Intelligence Laboratory](https://etri-visualintelligence.github.io/) at [ETRI](https://www.etri.re.kr/eng/main/main.etri). Before that, I received my Ph.D. and B.S. degrees in [Electrical and Electronic Engineering](https://ee.yonsei.ac.kr/ee_en/index.do) from [Yonsei University](https://www.yonsei.ac.kr/en_sc/) in 2023 and 2016, respectively, advised by Professor [Euntai Kim](https://cilab.yonsei.ac.kr/). 
 
 I am interested in building algorithms and machines that can understand the world and communicate with humans. My research focuses on learning deep networks that can solve a wide range of problems using a few general interfaces.
 
@@ -35,7 +35,7 @@ I am interested in building algorithms and machines that can understand the worl
 - *(Feb 2023)* 📃 One paper is accepted to CVPR 2023.
 - *(Nov 2022)* 🎉 I won the [Qualcomm Innovation Fellowship 2022](https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners).
 - *(Oct 2022)* 🎉 I won the Excellence Vision Research Award at the 1ˢᵗ Yonsei AI Workshop.
-- *(Mar 2022)* 🎉 A paper titled “Correlation Verification for Image Retrieval” has been selected for **Oral presentation** in CVPR 2022.
+- *(Mar 2022)* 🎉 A “Correlation Verification for Image Retrieval” paper has been selected for **Oral presentation** in CVPR 2022.
 - *(Mar 2022)* 📃 Two papers are accepted to CVPR 2022. 
 - *(Jul 2021)* 📃 One paper is accepted to ICCV 2021. 
 
@@ -112,12 +112,12 @@ I am interested in building algorithms and machines that can understand the worl
 - *(Apr 2019 - Dec 2019)* Development of Depth Map Generation Technology using Continuous Stereo Images
   - Funding from Hyundai AutoEver
 - *(Oct 2017 - Feb 2019)* Development of Integration Module Technology for Localization and Autonomous Driving Control Based on Multi-modal Sensor for Wheel Drive Service Robot
-  - Funding from Ministry of Trade, Industry and Energy (MOTIE)
+  - Funding from the Ministry of Trade, Industry and Energy (MOTIE)
 - *(Oct 2016 - Oct 2017)* Development of Robot Autonomous Driving Technology using Laser Scanner
   - Funding from  Hitachi-LG Data Storage
 - *(May 2016 - Apr 2020)* Development of Robot Intelligence Technology for Mobility with Learning Capability
 toward Robust and Seamless Indoor and Outdoor Autonomous Navigation
-  - Funding from Ministry of Trade, Industry and Energy (MOTIE)
+  - Funding from the Ministry of Trade, Industry and Energy (MOTIE)
 
 # 💻 Academic Services
 - Invited Talks
