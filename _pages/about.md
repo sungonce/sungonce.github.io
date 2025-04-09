@@ -23,8 +23,8 @@ I am interested in building algorithms and machines that can understand the worl
 
 
 # 🎉 News
-- *(Apr 2024)* 🧑🏻‍🏫 Giving an invited talk about Neural 3D Reconstruction @ KETI.
-- *(Mar 2024)* 🧑🏻‍🏫 Giving an invited talk about Image Matching and 3D Vision Research @ ETRI.
+- *(Apr 2025)* 🧑🏻‍🏫 Giving an invited talk about Neural 3D Reconstruction @ KETI.
+- *(Mar 2025)* 🧑🏻‍🏫 Giving an invited talk about Image Matching and 3D Vision Research @ ETRI.
 - *(Feb 2025)* 📃 One paper is accepted to ICRA 2025.
 - *(Nov 2024)* 📃 One paper is accepted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) (IF: 20.6, JCR Top 1%).
 - *(Oct 2024)* 📃 One paper is accepted to IEEE Transactions on Intelligent Vehicles (TIV) (IF: 14.0, JCR Top 2%).
@@ -123,9 +123,9 @@ toward Robust and Seamless Indoor and Outdoor Autonomous Navigation
 
 # 💻 Academic Services
 - Invited Talks
-   - *(Apr 2024)* Match and Extend: Visual Based Matching and 3D Reconstruction
+   - *(Apr 2025)* Match and Extend: Visual Based Matching and 3D Reconstruction
       - Korea Electronics Technology Institute (KETI)
-   - *(Mar 2024)* Neural Rendering: NeRF and 3D Gaussian Splatting
+   - *(Mar 2025)* Neural Rendering: NeRF and 3D Gaussian Splatting
       - Electronics and Telecommunication Research Institute (ETRI)
    - *(Jan 2024)* Recent Advances in Computer Vision: Foundation Models, Vision-Language Models and 3D Neural Representations [[slide]](https://drive.google.com/file/d/1AS2djykCUuBL5o9tbf6CG_T8U4xLkZlB/view?usp=drive_link)
       - School of Electrical and Electronic Engineering, Yonsei University
