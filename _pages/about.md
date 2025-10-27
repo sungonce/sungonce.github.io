@@ -47,50 +47,50 @@ I am interested in building algorithms and machines that can understand the worl
 - *(Jul 2021)* 📃 One paper has been accepted to ICCV 2021. 
 
 # 📚 Selected Publications 
-[Google Scholar full list](https://scholar.google.com/citations?hl=en&user=wKlb8_gAAAAJ), † denotes corresponding author
+[Google Scholar full list](https://scholar.google.com/citations?hl=en&user=wKlb8_gAAAAJ), <sup>†</sup> denotes corresponding author
 
 * ## VG3T: Visual Geometry Grounded Gaussian Transformer <br>
-  Junho Kim, **Seongwon Lee†** <br>
+  Junho Kim, **Seongwon Lee<sup>†</sup>** <br>
   IEEE International Conference on Robotics and Automation (<span style="color:skyblue">**ICRA**</span>), 2026, Under reviewed <br>
   ![VG3T_gif](../images/kim2025vg3t.gif)
 
 * ## Fast Global Localization on Neural Radiance Field <br>
-  Mangyu Kong, Jaewon Lee, **Seongwon Lee†**, Euntai Kim† <br>
+  Mangyu Kong, Jaewon Lee, **Seongwon Lee<sup>†</sup>**, Euntai Kim<sup>†</sup> <br>
   IEEE International Conference on Robotics and Automation (<span style="color:skyblue">**ICRA**</span>), May 2025 <br>
   [[arXiv]](https://arxiv.org/abs/2406.12202)&nbsp;&nbsp;[![](https://img.shields.io/github/stars/kmk97/Fast-Loc-NeRF)](https://github.com/kmk97/Fast-Loc-NeRF) <br>
   ![fastLocNeRF_gif](../images/kong2025fast.gif)
 
 * ## Correlation Verification for Image Retrieval and Its Memory Footprint Optimization <br>
-  **Seongwon Lee**, Hongje Seong, Suhyeon Lee, Euntai Kim† <br>
+  **Seongwon Lee**, Hongje Seong, Suhyeon Lee, Euntai Kim<sup>†</sup> <br>
   Accepted, Transactions on Pattern Analysis and Machine Intelligence (<span style="color:skyblue">**TPAMI**</span>), Nov 2024 <br>
   [[paper]](https://ieeexplore.ieee.org/document/10759842)
   ![CVNet_DS_image](../images/lee2025cvnetds.png)
 
 * ## Location-Aware Transformer Network for Bird’s Eye View Semantic Segmentation <br>
-  Suhan Woo, Minseong Park, Youngjo Lee, **Seongwon Lee**, Euntai Kim† <br>
+  Suhan Woo, Minseong Park, Youngjo Lee, **Seongwon Lee**, Euntai Kim<sup>†</sup> <br>
   Accepted, Transactions on Intelligent Vehicles (<span style="color:skyblue">**TIV**</span>), Oct 2024 <br>
   [[paper]](https://ieeexplore.ieee.org/document/10729649)
   ![LAT_gif](../images/woo2025lat.gif)
   
 * ## Language-only Efficient Prompt Learning for Zero-shot Composed Image Retrieval <br>
-  **Seongwon Lee**, Yong-Ju Lee† <br>
+  **Seongwon Lee**, Yong-Ju Lee<sup>†</sup> <br>
   European Conference on Computer Vision Workshop (<span style="color:skyblue">**ECCVW (Green-FOMO Workshop)**</span>), Oct 2024 <br>
   ![language_only_image](../images/lee2024language.png)
 
 * ## RoomNeRF: Representing Empty Room as Neural Radiance Fields for View Synthesis <br>
-  Mangyu Kong, **Seongwon Lee**, Euntai Kim† <br>
+  Mangyu Kong, **Seongwon Lee**, Euntai Kim<sup>†</sup> <br>
   The British Machine Vision Conference (<span style="color:skyblue">**BMVC**</span>), Nov 2023 <br>
   [[page]](https://proceedings.bmvc2023.org/825/) [[paper]](https://papers.bmvc2023.org/0825.pdf) [[supp]](https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0825_supp.zip) [[poster]](https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0825_poster.pdf) [[video]](https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0825_video.mp4)
   ![roomnerf_gif](../images/kong2023room.gif)
 
 * ## Revisiting Self-Similarity: Structural Embedding for Image Retrieval <br>
-  **Seongwon Lee**, Suhyeon Lee, Hongje Seong, Euntai Kim† <br>
+  **Seongwon Lee**, Suhyeon Lee, Hongje Seong, Euntai Kim<sup>†</sup> <br>
   IEEE/CVF Conference on Computer Vision and Pattern Recognition (<span style="color:skyblue">**CVPR**</span>), Jun 2023 <br>
   [[page]](https://openaccess.thecvf.com/content/CVPR2023/html/Lee_Revisiting_Self-Similarity_Structural_Embedding_for_Image_Retrieval_CVPR_2023_paper.html) [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Lee_Revisiting_Self-Similarity_Structural_Embedding_for_Image_Retrieval_CVPR_2023_paper.pdf) [[supp]](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Lee_Revisiting_Self-Similarity_Structural_CVPR_2023_supplemental.pdf) [[poster]](https://cvpr2023.thecvf.com/media/PosterPDFs/CVPR%202023/22752.png?t=1686640998.037478) [[video]](https://youtu.be/1_Kqu25roa4)&nbsp;&nbsp;[![](https://img.shields.io/github/stars/sungonce/SENet)](https://github.com/sungonce/SENet)
   ![revisit_image](../images/lee2023revisiting.jpg)
 
 * ## Correlation Verification for Image Retrieval <br>
-  **Seongwon Lee**, Hongje Seong, Suhyeon Lee, Euntai Kim† <br>
+  **Seongwon Lee**, Hongje Seong, Suhyeon Lee, Euntai Kim<sup>†</sup> <br>
   IEEE/CVF Conference on Computer Vision and Pattern Recognition (<span style="color:skyblue">**CVPR**</span>), Jun 2022 <br>
   <span style="color:#000000;background-color:#CAF4FF"> Selected as an **Oral Presentation**</span> (Oral Presentation Acceptance Rate: 342/8161 ≈ **4.2%**) <br>
   <span style="color:#000000;background-color:#DCFFB7"> **Winner** at [Qualcomm Innovation Fellowship 2022](https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners)</span><br>
@@ -100,14 +100,14 @@ I am interested in building algorithms and machines that can understand the worl
   ![cvnet_image](../images/lee2022cvnet.jpg)
 
 * ## WildNet: Learning Domain Generalized Semantic Segmentation from the Wild <br>
-  Suhyeon Lee, Hongje Seong, **Seongwon Lee**, Euntai Kim† <br>
+  Suhyeon Lee, Hongje Seong, **Seongwon Lee**, Euntai Kim<sup>†</sup> <br>
   IEEE/CVF Conference on Computer Vision and Pattern Recognition (<span style="color:skyblue">**CVPR**</span>), Jun 2022 <br>
   <span style="color:#000000;background-color:#DCFFB7"> **Finalist** at [Qualcomm Innovation Fellowship 2022](https://www.qualcomm.com/research/university-relations/innovation-fellowship/finalists)</span><br>
   [[page]](https://openaccess.thecvf.com/content/CVPR2022/html/Lee_WildNet_Learning_Domain_Generalized_Semantic_Segmentation_From_the_Wild_CVPR_2022_paper.html) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_WildNet_Learning_Domain_Generalized_Semantic_Segmentation_From_the_Wild_CVPR_2022_paper.pdf) [[supp]](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Lee_WildNet_Learning_Domain_CVPR_2022_supplemental.pdf) [[arXiv]](http://arxiv.org/abs/2204.01446)&nbsp;&nbsp;[![](https://img.shields.io/github/stars/suhyeonlee/WildNet)](https://github.com/suhyeonlee/WildNet)
   ![wildnet_gif](../images/lee2022wildnet.jpg)
 
 * ## Hierarchical Memory Matching Network for Video Object Segmentation <br>
-  Hongje Seong, Seoung Wug Oh, Joon-Young Lee, **Seongwon Lee**, Suhyeon Lee, Euntai Kim† <br>
+  Hongje Seong, Seoung Wug Oh, Joon-Young Lee, **Seongwon Lee**, Suhyeon Lee, Euntai Kim<sup>†</sup> <br>
   IEEE/CVF International Conference on Computer Vision (<span style="color:skyblue">**ICCV**</span>), Oct 2021 <br>
   [[page]](https://openaccess.thecvf.com/content/ICCV2021/html/Seong_Hierarchical_Memory_Matching_Network_for_Video_Object_Segmentation_ICCV_2021_paper.html) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Seong_Hierarchical_Memory_Matching_Network_for_Video_Object_Segmentation_ICCV_2021_paper.pdf) [[supp]](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Seong_Hierarchical_Memory_Matching_ICCV_2021_supplemental.pdf) [[arXiv]](http://arxiv.org/abs/2109.11404)&nbsp;&nbsp;[![](https://img.shields.io/github/stars/Hongje/HMMN)](https://github.com/Hongje/HMMN)
   ![hmmn_gif](../images/seong2021hmmn.jpg)
