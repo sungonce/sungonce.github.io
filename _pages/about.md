@@ -57,7 +57,7 @@ I am interested in building algorithms and machines that can understand the worl
 * ## Fast Global Localization on Neural Radiance Field <br>
   Mangyu Kong, Jaewon Lee, **Seongwon Lee†**, Euntai Kim† <br>
   IEEE International Conference on Robotics and Automation (<span style="color:skyblue">**ICRA**</span>), May 2025 <br>
-  [[arXiv]](https://arxiv.org/abs/2406.12202)&nbsp;&nbsp;[![](https://img.shields.io/github/stars/kmk97/Fast-Loc-NeRF)](https://github.com/kmk97/Fast-Loc-NeRF)
+  [[arXiv]](https://arxiv.org/abs/2406.12202)&nbsp;&nbsp;[![](https://img.shields.io/github/stars/kmk97/Fast-Loc-NeRF)](https://github.com/kmk97/Fast-Loc-NeRF) <br>
   ![fastLocNeRF_gif](../images/kong2025fast.gif)
 
 * ## Correlation Verification for Image Retrieval and Its Memory Footprint Optimization <br>
