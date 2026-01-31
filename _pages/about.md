@@ -52,8 +52,9 @@ I am interested in building algorithms and machines that can understand the worl
 
 * ## VG3T: Visual Geometry Grounded Gaussian Transformer <br>
   Junho Kim, **Seongwon Lee<sup>†</sup>** <br>
-  IEEE International Conference on Robotics and Automation (<span style="color:skyblue">**ICRA**</span>), 2026, Accepted <br>
-  ![VG3T_gif](../images/kim2025vg3t.gif)
+  IEEE International Conference on Robotics and Automation (<span style="color:skyblue">**ICRA**</span>), Jun 2026 (Accepted) <br>
+   [[arXiv]](https://arxiv.org/abs/2512.05988) <br>
+   ![VG3T_gif](../images/kim2025vg3t.gif)
 
 * ## Fast Global Localization on Neural Radiance Field <br>
   Mangyu Kong, Jaewon Lee, **Seongwon Lee<sup>†</sup>**, Euntai Kim<sup>†</sup> <br>
