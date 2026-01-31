@@ -23,7 +23,7 @@ I am interested in building algorithms and machines that can understand the worl
 
 
 # 🎉 News
-- *(Jan 2025)* 📃 One paper has been accepted to ICRA 2026.
+- *(Jan 2026)* 📃 One paper has been accepted to ICRA 2026.
 - *(Sep 2025)* 🧑🏻‍🏫 Giving an invited talk about Neural Rendering: Creating Reality with AI @ Yonsei University.
 - *(Jul 2025)* 🧑🏻‍🏫 Giving an invited talk about Neural Rendering Using Vision and LiDAR and Its Application in Map Representation @ SOSLAB.
 - *(Jul 2025)* 🧑🏻‍🏫 Giving an invited talk about Recent Advances in Spatial AI: The Present and Future of Spatial Intelligence @ Gachon University.
