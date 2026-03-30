@@ -43,43 +43,63 @@
 .paper-box {
     display: flex;
     justify-content: left;
-    align-items: center;
+    align-items: flex-start;
     flex-direction: row;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
+    gap: 1rem;
     border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
+    padding: 1.25em 0;
     
 
     .paper-box-image{
         justify-content: center;
         display: flex;
-        width: 100%;
-        order: 2;
+        flex: 0 0 110px;
+        max-width: 110px;
+
+        a {
+            display: inline-flex;
+        }
+
         img {
-            max-width: 400px;
+            width: 110px;
+            max-width: 110px;
+            border-radius: 0.35rem;
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
+            cursor: zoom-in;
         }
     }
     
     .paper-box-text{
-        max-width: 100%;
-        order: 1;
+        flex: 1 1 auto;
+        min-width: 0;
+    }
+
+    .paper-box-text p {
+        margin: 0 0 0.35rem;
+    }
+
+    .paper-box-title {
+        font-size: 1.1em;
+        font-weight: 700;
     }
     
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
-            min-width: 200px;
-            max-width: 40%;
-            order: 1;
+            flex-basis: 140px;
+            max-width: 140px;
+
+            img {
+                width: 140px;
+                max-width: 140px;
+            }
         }
         
         .paper-box-text{
             justify-content: left;
-            padding-left: 2em;
-            max-width: 60%;
-            order: 2;
+            padding-left: 0.5em;
         }
 
     }
