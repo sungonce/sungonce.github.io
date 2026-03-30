@@ -41,27 +41,28 @@
 @import "print";
 
 .paper-box {
-    display: flex;
-    justify-content: left;
-    align-items: flex-start;
-    flex-direction: row;
-    flex-wrap: nowrap;
+    display: grid;
+    grid-template-columns: 110px minmax(0, 1fr);
+    align-items: start;
     gap: 1rem;
+    width: 100%;
     border-bottom: 1px #efefef solid;
     padding: 1.25em 0;
     
 
     .paper-box-image{
-        justify-content: center;
         display: flex;
-        flex: 0 0 110px;
+        align-items: flex-start;
+        justify-content: flex-start;
+        width: 110px;
         max-width: 110px;
 
         a {
-            display: inline-flex;
+            display: inline-block;
         }
 
         img {
+            display: block;
             width: 110px;
             max-width: 110px;
             border-radius: 0.35rem;
@@ -86,9 +87,10 @@
     }
     
     @include breakpoint($medium) {
+        grid-template-columns: 140px minmax(0, 1fr);
+
         .paper-box-image{
-            justify-content: left;
-            flex-basis: 140px;
+            width: 140px;
             max-width: 140px;
 
             img {
