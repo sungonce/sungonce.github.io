@@ -57,10 +57,6 @@
         width: 110px;
         max-width: 110px;
 
-        a {
-            display: inline-block;
-        }
-
         img {
             display: block;
             width: 110px;
@@ -107,6 +103,67 @@
     }
 
 
+}
+
+.publication-entry__thumbnail-button {
+    display: inline-block;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    cursor: zoom-in;
+}
+
+.publication-entry__thumbnail {
+    display: block;
+}
+
+.publication-image-modal {
+    position: fixed;
+    inset: 0;
+    z-index: 9999;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    padding: 1.5rem;
+}
+
+.publication-image-modal.is-open {
+    display: flex;
+}
+
+.publication-image-modal__backdrop {
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.82);
+}
+
+.publication-image-modal__content {
+    position: relative;
+    z-index: 1;
+    max-width: min(92vw, 1100px);
+    max-height: 88vh;
+    border-radius: 0.5rem;
+    box-shadow: 0 24px 60px rgba(0, 0, 0, 0.35);
+}
+
+.publication-image-modal__close {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    z-index: 2;
+    width: 2.5rem;
+    height: 2.5rem;
+    border: 0;
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.16);
+    color: #fff;
+    font-size: 1.8rem;
+    line-height: 1;
+    cursor: pointer;
+}
+
+body.publication-modal-open {
+    overflow: hidden;
 }
 
 $scroll_offset : 2em;

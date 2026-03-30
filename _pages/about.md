@@ -50,8 +50,14 @@ I am interested in building algorithms and machines that can understand the worl
 # 📚 Selected Publications
 [Google Scholar full list](https://scholar.google.com/citations?hl=en&user=wKlb8_gAAAAJ), `*` denotes corresponding author
 
+<div id="publication-image-modal" class="publication-image-modal" aria-hidden="true">
+  <button type="button" class="publication-image-modal__close" aria-label="Close image">&times;</button>
+  <div class="publication-image-modal__backdrop"></div>
+  <img class="publication-image-modal__content" src="" alt="">
+</div>
+
 <div class="paper-box">
-  <div class="paper-box-image"><a href="../images/kong2026rethinking.png" title="Rethinking Pose Refinement in 3D Gaussian Splatting under Pose Prior and Geometric Uncertainty"><img src="../images/kong2026rethinking.png" alt="Rethinking Pose Refinement thumbnail"></a></div>
+  <div class="paper-box-image"><button type="button" class="publication-entry__thumbnail-button" data-publication-image="../images/kong2026rethinking.png" data-publication-title="Rethinking Pose Refinement in 3D Gaussian Splatting under Pose Prior and Geometric Uncertainty"><img class="publication-entry__thumbnail" src="../images/kong2026rethinking.png" alt="Rethinking Pose Refinement thumbnail"></button></div>
   <div class="paper-box-text">
     <p class="paper-box-title">Rethinking Pose Refinement in 3D Gaussian Splatting under Pose Prior and Geometric Uncertainty</p>
     <p>Mangyu Kong, <strong>Seongwon Lee*</strong>, Euntai Kim*</p>
@@ -61,7 +67,7 @@ I am interested in building algorithms and machines that can understand the worl
 </div>
 
 <div class="paper-box">
-  <div class="paper-box-image"><a href="../images/woo2026hypevpr.png" title="HypeVPR: Exploring Hyperbolic Space for Perspective to Equirectangular Visual Place Recognition"><img src="../images/woo2026hypevpr.png" alt="HypeVPR thumbnail"></a></div>
+  <div class="paper-box-image"><button type="button" class="publication-entry__thumbnail-button" data-publication-image="../images/woo2026hypevpr.png" data-publication-title="HypeVPR: Exploring Hyperbolic Space for Perspective to Equirectangular Visual Place Recognition"><img class="publication-entry__thumbnail" src="../images/woo2026hypevpr.png" alt="HypeVPR thumbnail"></button></div>
   <div class="paper-box-text">
     <p class="paper-box-title">HypeVPR: Exploring Hyperbolic Space for Perspective to Equirectangular Visual Place Recognition</p>
     <p>Suhan Woo, <strong>Seongwon Lee</strong>, Jinwoo Jang, Euntai Kim*</p>
@@ -71,7 +77,7 @@ I am interested in building algorithms and machines that can understand the worl
 </div>
 
 <div class="paper-box">
-  <div class="paper-box-image"><a href="../images/kim2025vg3t.gif" title="VG3T: Visual Geometry Grounded Gaussian Transformer"><img src="../images/kim2025vg3t.gif" alt="VG3T thumbnail"></a></div>
+  <div class="paper-box-image"><button type="button" class="publication-entry__thumbnail-button" data-publication-image="../images/kim2025vg3t.gif" data-publication-title="VG3T: Visual Geometry Grounded Gaussian Transformer"><img class="publication-entry__thumbnail" src="../images/kim2025vg3t.gif" alt="VG3T thumbnail"></button></div>
   <div class="paper-box-text">
     <p class="paper-box-title">VG3T: Visual Geometry Grounded Gaussian Transformer</p>
     <p>Junho Kim, <strong>Seongwon Lee*</strong></p>
@@ -81,7 +87,7 @@ I am interested in building algorithms and machines that can understand the worl
 </div>
 
 <div class="paper-box">
-  <div class="paper-box-image"><a href="../images/kong2025fast.gif" title="Fast Global Localization on Neural Radiance Field"><img src="../images/kong2025fast.gif" alt="Fast Global Localization thumbnail"></a></div>
+  <div class="paper-box-image"><button type="button" class="publication-entry__thumbnail-button" data-publication-image="../images/kong2025fast.gif" data-publication-title="Fast Global Localization on Neural Radiance Field"><img class="publication-entry__thumbnail" src="../images/kong2025fast.gif" alt="Fast Global Localization thumbnail"></button></div>
   <div class="paper-box-text">
     <p class="paper-box-title">Fast Global Localization on Neural Radiance Field</p>
     <p>Mangyu Kong, Jaewon Lee, <strong>Seongwon Lee*</strong>, Euntai Kim*</p>
@@ -91,7 +97,7 @@ I am interested in building algorithms and machines that can understand the worl
 </div>
 
 <div class="paper-box">
-  <div class="paper-box-image"><a href="../images/lee2025cvnetds.png" title="Correlation Verification for Image Retrieval and Its Memory Footprint Optimization"><img src="../images/lee2025cvnetds.png" alt="CVNet DS thumbnail"></a></div>
+  <div class="paper-box-image"><button type="button" class="publication-entry__thumbnail-button" data-publication-image="../images/lee2025cvnetds.png" data-publication-title="Correlation Verification for Image Retrieval and Its Memory Footprint Optimization"><img class="publication-entry__thumbnail" src="../images/lee2025cvnetds.png" alt="CVNet DS thumbnail"></button></div>
   <div class="paper-box-text">
     <p class="paper-box-title">Correlation Verification for Image Retrieval and Its Memory Footprint Optimization</p>
     <p><strong>Seongwon Lee</strong>, Hongje Seong, Suhyeon Lee, Euntai Kim*</p>
@@ -101,7 +107,7 @@ I am interested in building algorithms and machines that can understand the worl
 </div>
 
 <div class="paper-box">
-  <div class="paper-box-image"><a href="../images/woo2025lat.gif" title="Location-Aware Transformer Network for Bird's Eye View Semantic Segmentation"><img src="../images/woo2025lat.gif" alt="LAT thumbnail"></a></div>
+  <div class="paper-box-image"><button type="button" class="publication-entry__thumbnail-button" data-publication-image="../images/woo2025lat.gif" data-publication-title="Location-Aware Transformer Network for Bird's Eye View Semantic Segmentation"><img class="publication-entry__thumbnail" src="../images/woo2025lat.gif" alt="LAT thumbnail"></button></div>
   <div class="paper-box-text">
     <p class="paper-box-title">Location-Aware Transformer Network for Bird's Eye View Semantic Segmentation</p>
     <p>Suhan Woo, Minseong Park, Youngjo Lee, <strong>Seongwon Lee</strong>, Euntai Kim*</p>
@@ -111,7 +117,7 @@ I am interested in building algorithms and machines that can understand the worl
 </div>
 
 <div class="paper-box">
-  <div class="paper-box-image"><a href="../images/lee2024language.png" title="Language-only Efficient Prompt Learning for Zero-shot Composed Image Retrieval"><img src="../images/lee2024language.png" alt="Language-only thumbnail"></a></div>
+  <div class="paper-box-image"><button type="button" class="publication-entry__thumbnail-button" data-publication-image="../images/lee2024language.png" data-publication-title="Language-only Efficient Prompt Learning for Zero-shot Composed Image Retrieval"><img class="publication-entry__thumbnail" src="../images/lee2024language.png" alt="Language-only thumbnail"></button></div>
   <div class="paper-box-text">
     <p class="paper-box-title">Language-only Efficient Prompt Learning for Zero-shot Composed Image Retrieval</p>
     <p><strong>Seongwon Lee</strong>, Yong-Ju Lee*</p>
@@ -120,7 +126,7 @@ I am interested in building algorithms and machines that can understand the worl
 </div>
 
 <div class="paper-box">
-  <div class="paper-box-image"><a href="../images/kong2023room.gif" title="RoomNeRF: Representing Empty Room as Neural Radiance Fields for View Synthesis"><img src="../images/kong2023room.gif" alt="RoomNeRF thumbnail"></a></div>
+  <div class="paper-box-image"><button type="button" class="publication-entry__thumbnail-button" data-publication-image="../images/kong2023room.gif" data-publication-title="RoomNeRF: Representing Empty Room as Neural Radiance Fields for View Synthesis"><img class="publication-entry__thumbnail" src="../images/kong2023room.gif" alt="RoomNeRF thumbnail"></button></div>
   <div class="paper-box-text">
     <p class="paper-box-title">RoomNeRF: Representing Empty Room as Neural Radiance Fields for View Synthesis</p>
     <p>Mangyu Kong, <strong>Seongwon Lee</strong>, Euntai Kim*</p>
@@ -130,7 +136,7 @@ I am interested in building algorithms and machines that can understand the worl
 </div>
 
 <div class="paper-box">
-  <div class="paper-box-image"><a href="../images/lee2023revisiting.jpg" title="Revisiting Self-Similarity: Structural Embedding for Image Retrieval"><img src="../images/lee2023revisiting.jpg" alt="Revisiting Self-Similarity thumbnail"></a></div>
+  <div class="paper-box-image"><button type="button" class="publication-entry__thumbnail-button" data-publication-image="../images/lee2023revisiting.jpg" data-publication-title="Revisiting Self-Similarity: Structural Embedding for Image Retrieval"><img class="publication-entry__thumbnail" src="../images/lee2023revisiting.jpg" alt="Revisiting Self-Similarity thumbnail"></button></div>
   <div class="paper-box-text">
     <p class="paper-box-title">Revisiting Self-Similarity: Structural Embedding for Image Retrieval</p>
     <p><strong>Seongwon Lee</strong>, Suhyeon Lee, Hongje Seong, Euntai Kim*</p>
@@ -140,7 +146,7 @@ I am interested in building algorithms and machines that can understand the worl
 </div>
 
 <div class="paper-box">
-  <div class="paper-box-image"><a href="../images/lee2022cvnet.jpg" title="Correlation Verification for Image Retrieval"><img src="../images/lee2022cvnet.jpg" alt="CVNet thumbnail"></a></div>
+  <div class="paper-box-image"><button type="button" class="publication-entry__thumbnail-button" data-publication-image="../images/lee2022cvnet.jpg" data-publication-title="Correlation Verification for Image Retrieval"><img class="publication-entry__thumbnail" src="../images/lee2022cvnet.jpg" alt="CVNet thumbnail"></button></div>
   <div class="paper-box-text">
     <p class="paper-box-title">Correlation Verification for Image Retrieval</p>
     <p><strong>Seongwon Lee</strong>, Hongje Seong, Suhyeon Lee, Euntai Kim*</p>
@@ -154,7 +160,7 @@ I am interested in building algorithms and machines that can understand the worl
 </div>
 
 <div class="paper-box">
-  <div class="paper-box-image"><a href="../images/lee2022wildnet.jpg" title="WildNet: Learning Domain Generalized Semantic Segmentation from the Wild"><img src="../images/lee2022wildnet.jpg" alt="WildNet thumbnail"></a></div>
+  <div class="paper-box-image"><button type="button" class="publication-entry__thumbnail-button" data-publication-image="../images/lee2022wildnet.jpg" data-publication-title="WildNet: Learning Domain Generalized Semantic Segmentation from the Wild"><img class="publication-entry__thumbnail" src="../images/lee2022wildnet.jpg" alt="WildNet thumbnail"></button></div>
   <div class="paper-box-text">
     <p class="paper-box-title">WildNet: Learning Domain Generalized Semantic Segmentation from the Wild</p>
     <p>Suhyeon Lee, Hongje Seong, <strong>Seongwon Lee</strong>, Euntai Kim*</p>
@@ -165,7 +171,7 @@ I am interested in building algorithms and machines that can understand the worl
 </div>
 
 <div class="paper-box">
-  <div class="paper-box-image"><a href="../images/seong2021hmmn.jpg" title="Hierarchical Memory Matching Network for Video Object Segmentation"><img src="../images/seong2021hmmn.jpg" alt="HMMN thumbnail"></a></div>
+  <div class="paper-box-image"><button type="button" class="publication-entry__thumbnail-button" data-publication-image="../images/seong2021hmmn.jpg" data-publication-title="Hierarchical Memory Matching Network for Video Object Segmentation"><img class="publication-entry__thumbnail" src="../images/seong2021hmmn.jpg" alt="HMMN thumbnail"></button></div>
   <div class="paper-box-text">
     <p class="paper-box-title">Hierarchical Memory Matching Network for Video Object Segmentation</p>
     <p>Hongje Seong, Seoung Wug Oh, Joon-Young Lee, <strong>Seongwon Lee</strong>, Suhyeon Lee, Euntai Kim*</p>
@@ -173,6 +179,45 @@ I am interested in building algorithms and machines that can understand the worl
     <p><a href="https://openaccess.thecvf.com/content/ICCV2021/html/Seong_Hierarchical_Memory_Matching_Network_for_Video_Object_Segmentation_ICCV_2021_paper.html">[page]</a> <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Seong_Hierarchical_Memory_Matching_Network_for_Video_Object_Segmentation_ICCV_2021_paper.pdf">[paper]</a> <a href="https://openaccess.thecvf.com/content/ICCV2021/supplemental/Seong_Hierarchical_Memory_Matching_ICCV_2021_supplemental.pdf">[supp]</a> <a href="http://arxiv.org/abs/2109.11404">[arXiv]</a>&nbsp;&nbsp;<a href="https://github.com/Hongje/HMMN"><img src="https://img.shields.io/github/stars/Hongje/HMMN" alt="HMMN stars"></a></p>
   </div>
 </div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var modal = document.getElementById('publication-image-modal');
+  if (!modal) return;
+
+  var modalImage = modal.querySelector('.publication-image-modal__content');
+  var closeButton = modal.querySelector('.publication-image-modal__close');
+  var backdrop = modal.querySelector('.publication-image-modal__backdrop');
+  var triggers = document.querySelectorAll('.publication-entry__thumbnail-button');
+
+  function closeModal() {
+    modal.classList.remove('is-open');
+    modal.setAttribute('aria-hidden', 'true');
+    document.body.classList.remove('publication-modal-open');
+    modalImage.setAttribute('src', '');
+    modalImage.setAttribute('alt', '');
+  }
+
+  Array.prototype.forEach.call(triggers, function (trigger) {
+    trigger.addEventListener('click', function () {
+      modalImage.setAttribute('src', trigger.getAttribute('data-publication-image'));
+      modalImage.setAttribute('alt', trigger.getAttribute('data-publication-title'));
+      modal.classList.add('is-open');
+      modal.setAttribute('aria-hidden', 'false');
+      document.body.classList.add('publication-modal-open');
+    });
+  });
+
+  if (closeButton) closeButton.addEventListener('click', closeModal);
+  if (backdrop) backdrop.addEventListener('click', closeModal);
+
+  document.addEventListener('keydown', function (event) {
+    if (event.key === 'Escape' && modal.classList.contains('is-open')) {
+      closeModal();
+    }
+  });
+});
+</script>
 
 # 🏆 Honors and Awards
 - *(Jul 2023)* 2023-1 Graduate School of Yonsei University Thesis Award (2023)
