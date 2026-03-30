@@ -22,8 +22,8 @@ I'm **Seongwon Lee**, a _assistant professor_ at the [School of Electrical Engin
 I am interested in building algorithms and machines that can understand the world and communicate with humans. My research focuses on learning deep networks that can solve a wide range of problems using a few general interfaces.
 
 # 🎉 News
-- *(Mar 2026)* 💼 I have started a project on **vision-based cargo and cargo label recognition on robots in logistics warehouse environments** in collaboration with BStar Robotics.
-- *(Mar 2026)* 💼 CILAB has been selected for the **Outstanding Young Scientist Grant** from the National Research Foundation of Korea (NRF) for the project, *Vision-Language Navigation Agents via Cyclic Expansion of Web-Scale Video, Augmented Simulation, and the Real World*.
+- *(Mar 2026)* 💼 I have started a project on vision-based cargo and cargo label recognition on robots in logistics warehouse environments in collaboration with BStar Robotics.
+- *(Mar 2026)* 💼 I has been selected for the Outstanding Young Scientist Grant from the National Research Foundation of Korea (NRF) for the project, Vision-Language Navigation Agents via Cyclic Expansion of Web-Scale Video, Augmented Simulation, and the Real World.
 - *(Feb 2026)* 📝 Two papers have been accepted to CVPR 2026.
 - *(Jan 2026)* 📝 One paper has been accepted to ICRA 2026.
 - *(Sep 2025)* 🎤 Giving an invited talk about Neural Rendering: Creating Reality with AI @ Yonsei University.
@@ -233,7 +233,7 @@ document.addEventListener('DOMContentLoaded', function () {
 - *(Mar 2026 - Present)* Vision-based Cargo and Cargo Label Recognition on Robots in Logistics Warehouse Environments
   - Funding from BStar Robotics
 - *(Mar 2026 - Present)* Vision-Language Navigation Agents via Cyclic Expansion of Web-Scale Video, Augmented Simulation, and the Real World
-  - Outstanding Young Scientist Grant, National Research Foundation of Korea (NRF)
+  - Funding from National Research Foundation of Korea (NRF)
 - *(Apr 2025 - Nov 2025)* Development of High-Fidelity Vehicle Representation via 3D Gaussian Splatting
   - Funding from Korea Electronics Technology Institute (KETI)
 - *(Jun 2025 - Nov 2025)* Development of Brain Signal Based Image Generation
