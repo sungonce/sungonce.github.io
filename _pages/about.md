@@ -25,15 +25,15 @@ I am interested in building algorithms and machines that can understand the worl
 - *(Feb 2026)* 📝 Two papers have been accepted to CVPR 2026.
 - *(Jan 2026)* 📝 One paper has been accepted to ICRA 2026.
 - *(Sep 2025)* 🎤 Giving an invited talk about Neural Rendering: Creating Reality with AI @ Yonsei University.
+- *(Sep 2025)* 📝 One paper has been published to IEEE Transactions on Intelligent Vehicles (TIV) (IF: 14.0, JCR Top 2%).
 - *(Jul 2025)* 🎤 Giving an invited talk about Neural Rendering Using Vision and LiDAR and Its Application in Map Representation @ SOSLAB.
 - *(Jul 2025)* 🎤 Giving an invited talk about Recent Advances in Spatial AI: The Present and Future of Spatial Intelligence @ Gachon University.
 - *(Jun 2025)* 💼 I have started a project related to 3D Reconstruction in collaboration with KETI.
 - *(Apr 2025)* 💼 I have started a project related to Image Generation in collaboration with ETRI.
 - *(Apr 2025)* 🎤 Giving an invited talk about Neural Rendering: NeRF and 3D Gaussian Splatting @ KETI.
 - *(Mar 2025)* 🎤 Giving an invited talk about Match and Extend: Visual-Based Matching and 3D Reconstruction Technology @ ETRI.
+- *(Nov 2024)* 📝 One paper has been published to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) (IF: 20.6, JCR Top 1%).
 - *(Feb 2025)* 📝 One paper has been accepted to ICRA 2025.
-- *(Nov 2024)* 📝 One paper has been accepted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) (IF: 20.6, JCR Top 1%).
-- *(Oct 2024)* 📝 One paper has been accepted to IEEE Transactions on Intelligent Vehicles (TIV) (IF: 14.0, JCR Top 2%).
 - *(Oct 2024)* 📝 One paper has been accepted to IEEE Access (IF: 3.4, JCR Top 40%).
 - *(Aug 2024)* 👨‍🏫 I am starting my assistant professorship in Kookmin University.
 - *(Jul 2024)* 📝 One paper has been accepted to ECCVW 2024.
@@ -87,6 +87,16 @@ I am interested in building algorithms and machines that can understand the worl
 </div>
 
 <div class="paper-box">
+  <div class="paper-box-image"><button type="button" class="publication-entry__thumbnail-button" data-publication-image="../images/woo2025lat.gif" data-publication-title="Location-Aware Transformer Network for Bird's Eye View Semantic Segmentation"><img class="publication-entry__thumbnail" src="../images/woo2025lat.gif" alt="LAT thumbnail"></button></div>
+  <div class="paper-box-text">
+    <p class="paper-box-title">Location-Aware Transformer Network for Bird's Eye View Semantic Segmentation</p>
+    <p>Suhan Woo, Minseong Park, Youngjo Lee, <strong>Seongwon Lee</strong>, Euntai Kim*</p>
+    <p>Transactions on Intelligent Vehicles (<span style="color:skyblue"><strong>TIV</strong></span>), Sep 2025</p>
+    <p><a href="https://ieeexplore.ieee.org/document/10729649">[paper]</a></p>
+  </div>
+</div>
+
+<div class="paper-box">
   <div class="paper-box-image"><button type="button" class="publication-entry__thumbnail-button" data-publication-image="../images/kong2025fast.gif" data-publication-title="Fast Global Localization on Neural Radiance Field"><img class="publication-entry__thumbnail" src="../images/kong2025fast.gif" alt="Fast Global Localization thumbnail"></button></div>
   <div class="paper-box-text">
     <p class="paper-box-title">Fast Global Localization on Neural Radiance Field</p>
@@ -101,18 +111,8 @@ I am interested in building algorithms and machines that can understand the worl
   <div class="paper-box-text">
     <p class="paper-box-title">Correlation Verification for Image Retrieval and Its Memory Footprint Optimization</p>
     <p><strong>Seongwon Lee</strong>, Hongje Seong, Suhyeon Lee, Euntai Kim*</p>
-    <p>Accepted, Transactions on Pattern Analysis and Machine Intelligence (<span style="color:skyblue"><strong>TPAMI</strong></span>), Nov 2024</p>
+    <p>Transactions on Pattern Analysis and Machine Intelligence (<span style="color:skyblue"><strong>TPAMI</strong></span>), Mar 2025</p>
     <p><a href="https://ieeexplore.ieee.org/document/10759842">[paper]</a></p>
-  </div>
-</div>
-
-<div class="paper-box">
-  <div class="paper-box-image"><button type="button" class="publication-entry__thumbnail-button" data-publication-image="../images/woo2025lat.gif" data-publication-title="Location-Aware Transformer Network for Bird's Eye View Semantic Segmentation"><img class="publication-entry__thumbnail" src="../images/woo2025lat.gif" alt="LAT thumbnail"></button></div>
-  <div class="paper-box-text">
-    <p class="paper-box-title">Location-Aware Transformer Network for Bird's Eye View Semantic Segmentation</p>
-    <p>Suhan Woo, Minseong Park, Youngjo Lee, <strong>Seongwon Lee</strong>, Euntai Kim*</p>
-    <p>Accepted, Transactions on Intelligent Vehicles (<span style="color:skyblue"><strong>TIV</strong></span>), Oct 2024</p>
-    <p><a href="https://ieeexplore.ieee.org/document/10729649">[paper]</a></p>
   </div>
 </div>
 
