@@ -63,8 +63,8 @@
 
         img {
             display: block;
-            width: 110px;
-            max-width: 110px;
+            width: min(100%, 420px);
+            max-width: 100%;
             border-radius: 0.35rem;
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
@@ -87,16 +87,16 @@
     }
     
     @include breakpoint($medium) {
-        grid-template-columns: 140px minmax(0, 1fr);
+        grid-template-columns: 170px minmax(0, 1fr);
         grid-template-areas: "image text";
 
         .paper-box-image{
-            width: 140px;
-            max-width: 140px;
+            width: 170px;
+            max-width: 170px;
 
             img {
-                width: 140px;
-                max-width: 140px;
+                width: 170px;
+                max-width: 170px;
             }
         }
         
