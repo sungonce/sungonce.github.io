@@ -42,7 +42,10 @@
 
 .paper-box {
     display: grid;
-    grid-template-columns: 110px minmax(0, 1fr);
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-areas:
+        "text"
+        "image";
     align-items: start;
     gap: 1rem;
     width: 100%;
@@ -51,11 +54,12 @@
     
 
     .paper-box-image{
+        grid-area: image;
         display: flex;
         align-items: flex-start;
         justify-content: flex-start;
-        width: 110px;
-        max-width: 110px;
+        width: 100%;
+        max-width: 100%;
 
         img {
             display: block;
@@ -69,7 +73,7 @@
     }
     
     .paper-box-text{
-        flex: 1 1 auto;
+        grid-area: text;
         min-width: 0;
     }
 
@@ -84,6 +88,7 @@
     
     @include breakpoint($medium) {
         grid-template-columns: 140px minmax(0, 1fr);
+        grid-template-areas: "image text";
 
         .paper-box-image{
             width: 140px;
