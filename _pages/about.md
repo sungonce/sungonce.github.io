@@ -22,17 +22,19 @@ I'm **Seongwon Lee**, a _assistant professor_ at the [School of Electrical Engin
 I am interested in building algorithms and machines that can understand the world and communicate with humans. My research focuses on learning deep networks that can solve a wide range of problems using a few general interfaces.
 
 # 🎉 News
+- *(Jun 2026)* 💼 Our lab has been awarded the Basic Research Laboratory (BRL) Program grant from NRF for research on Robot Foundation Models.
 - *(Jun 2026)* 📝 One paper has been accepted to IROS 2026.
-- *(Mar 2026)* 💼 I have started a project on vision-based cargo and cargo label recognition on robots in logistics warehouse environments in collaboration with BStar Robotics.
-- *(Mar 2026)* 💼 I has been selected for the Outstanding Young Scientist Grant from the National Research Foundation of Korea (NRF) for the project, Vision-Language Navigation Agents via Cyclic Expansion of Web-Scale Video, Augmented Simulation, and the Real World.
+- *(May 2026)* 💼 Our lab has been awarded a research grant from Electronics and Telecommunications Research Institute (ETRI) for research on Vision-Language Navigation (VLN) Agents.
+- *(Mar 2026)* 💼 Our lab has been awarded a research grant from BStar Robotics for research on 3D Reconstruction for Logistics Warehouse Robots.
+- *(Mar 2026)* 💼 Our lab has been awarded the Young Researcher Program grant from NRF for research on Vision-Language Navigation (VLN) Agents.
 - *(Feb 2026)* 📝 Two papers have been accepted to CVPR 2026.
 - *(Jan 2026)* 📝 One paper has been accepted to ICRA 2026.
 - *(Sep 2025)* 🎤 Giving an invited talk about Neural Rendering: Creating Reality with AI @ Yonsei University.
 - *(Sep 2025)* 📝 One paper has been published in IEEE Transactions on Intelligent Vehicles (TIV) (IF: 14.0, JCR Top 2%).
 - *(Jul 2025)* 🎤 Giving an invited talk about Neural Rendering Using Vision and LiDAR and Its Application in Map Representation @ SOSLAB.
 - *(Jul 2025)* 🎤 Giving an invited talk about Recent Advances in Spatial AI: The Present and Future of Spatial Intelligence @ Gachon University.
-- *(Jun 2025)* 💼 I have started a project related to 3D Reconstruction in collaboration with KETI.
-- *(Apr 2025)* 💼 I have started a project related to Image Generation in collaboration with ETRI.
+- *(Jun 2025)* 💼 Our lab has been awarded a research grant from Electronics and Telecommunications Research Institute (ETRI) for research on Brain Signal Based Image Generation.
+- *(Apr 2025)* 💼 Our lab has been awarded a research grant from Korea Electronics Technology Institute (KETI) for research on 3D Reconstruction of Vehicles.
 - *(Apr 2025)* 🎤 Giving an invited talk about Neural Rendering: NeRF and 3D Gaussian Splatting @ KETI.
 - *(Mar 2025)* 🎤 Giving an invited talk about Match and Extend: Visual-Based Matching and 3D Reconstruction Technology @ ETRI.
 - *(Feb 2025)* 📝 One paper has been accepted to ICRA 2025.
