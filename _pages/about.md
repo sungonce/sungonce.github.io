@@ -22,6 +22,7 @@ I'm **Seongwon Lee**, a _assistant professor_ at the [School of Electrical Engin
 I am interested in building algorithms and machines that can understand the world and communicate with humans. My research focuses on learning deep networks that can solve a wide range of problems using a few general interfaces.
 
 # 🎉 News
+- *(Jun 2026)* 📝 One paper has been accepted to IROS 2026, led by my undergraduate student Junho Kim.
 - *(Mar 2026)* 💼 I have started a project on vision-based cargo and cargo label recognition on robots in logistics warehouse environments in collaboration with BStar Robotics.
 - *(Mar 2026)* 💼 I has been selected for the Outstanding Young Scientist Grant from the National Research Foundation of Korea (NRF) for the project, Vision-Language Navigation Agents via Cyclic Expansion of Web-Scale Video, Augmented Simulation, and the Real World.
 - *(Feb 2026)* 📝 Two papers have been accepted to CVPR 2026.
@@ -56,6 +57,16 @@ I am interested in building algorithms and machines that can understand the worl
   <button type="button" class="publication-image-modal__close" aria-label="Close image">&times;</button>
   <div class="publication-image-modal__backdrop"></div>
   <img class="publication-image-modal__content" src="" alt="">
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image"><button type="button" class="publication-entry__thumbnail-button" data-publication-image="../images/kim2026rayocc.png" data-publication-title="RayOcc: Occlusion-Agnostic Ray Occupancy Estimation via Gaussian Mixture Intensity"><img class="publication-entry__thumbnail" src="../images/kim2026rayocc.png" alt="RayOcc thumbnail"></button></div>
+  <div class="paper-box-text">
+    <p class="paper-box-title">RayOcc: Occlusion-Agnostic Ray Occupancy Estimation via Gaussian Mixture Intensity</p>
+    <p>Junho Kim, <strong>Seongwon Lee*</strong></p>
+    <p>IEEE/RSJ International Conference on Intelligent Robots and Systems (<span style="color:skyblue"><strong>IROS</strong></span>), 2026</p>
+    <p>[coming soon]</p>
+  </div>
 </div>
 
 <div class="paper-box">
