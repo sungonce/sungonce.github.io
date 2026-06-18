@@ -22,7 +22,7 @@ I'm **Seongwon Lee**, a _assistant professor_ at the [School of Electrical Engin
 I am interested in building algorithms and machines that can understand the world and communicate with humans. My research focuses on learning deep networks that can solve a wide range of problems using a few general interfaces.
 
 # 🎉 News
-- *(Jun 2026)* 📝 One paper has been accepted to IROS 2026, led by my undergraduate student Junho Kim.
+- *(Jun 2026)* 📝 One paper has been accepted to IROS 2026.
 - *(Mar 2026)* 💼 I have started a project on vision-based cargo and cargo label recognition on robots in logistics warehouse environments in collaboration with BStar Robotics.
 - *(Mar 2026)* 💼 I has been selected for the Outstanding Young Scientist Grant from the National Research Foundation of Korea (NRF) for the project, Vision-Language Navigation Agents via Cyclic Expansion of Web-Scale Video, Augmented Simulation, and the Real World.
 - *(Feb 2026)* 📝 Two papers have been accepted to CVPR 2026.
