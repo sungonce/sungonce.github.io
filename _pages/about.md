@@ -56,7 +56,7 @@ I am interested in building algorithms and machines that can understand the worl
     <p class="paper-box-title">HypeVPR: Exploring Hyperbolic Space for Perspective to Equirectangular Visual Place Recognition</p>
     <p>Suhan Woo, <strong>Seongwon Lee</strong>, Jinwoo Jang, Euntai Kim*</p>
     <p>IEEE/CVF Conference on Computer Vision and Pattern Recognition (<span style="color:skyblue"><strong>CVPR</strong></span>), Jun 2026</p>
-    <p><a href="https://arxiv.org/abs/2506.04764">[arXiv]</a></p>
+    <p><a href="https://cvpr.thecvf.com/virtual/2026/poster/38544">[page]</a> <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Woo_HypeVPR_Exploring_Hyperbolic_Space_for_Perspective_to_Equirectangular_Visual_Place_CVPR_2026_paper.pdf">[paper]</a> <a href="https://openaccess.thecvf.com/content/CVPR2026/supplemental/Woo_HypeVPR_Exploring_Hyperbolic_CVPR_2026_supplemental.pdf">[supp]</a> <a href="https://youtu.be/w4Sd3LEpUoQ">[video]</a> <a href="https://arxiv.org/abs/2506.04764">[arXiv]</a></p>
   </div>
 </div>
 
