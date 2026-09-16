@@ -46,7 +46,7 @@ I am interested in building algorithms and machines that can understand the worl
     <p class="paper-box-title">Rethinking Pose Refinement in 3D Gaussian Splatting under Pose Prior and Geometric Uncertainty</p>
     <p>Mangyu Kong, <strong>Seongwon Lee*</strong>, Euntai Kim*</p>
     <p>IEEE/CVF Conference on Computer Vision and Pattern Recognition (<span style="color:skyblue"><strong>CVPR</strong></span>), Jun 2026</p>
-    <p><a href="about:blank">[arXiv]</a></p>
+    <p><a href="https://kmk97.github.io/UGSLoc/">[project page]</a> <a href="https://github.com/kmk97/UGSLoc">[code]</a> <a href="http://arxiv.org/abs/2603.16538">[arXiv]</a></p>
   </div>
 </div>
 
@@ -86,7 +86,7 @@ I am interested in building algorithms and machines that can understand the worl
     <p class="paper-box-title">Fast Global Localization on Neural Radiance Field</p>
     <p>Mangyu Kong, Jaewon Lee, <strong>Seongwon Lee*</strong>, Euntai Kim*</p>
     <p>IEEE International Conference on Robotics and Automation (<span style="color:skyblue"><strong>ICRA</strong></span>), May 2025</p>
-    <p><a href="https://arxiv.org/abs/2406.12202">[arXiv]</a>&nbsp;&nbsp;<a href="https://github.com/kmk97/Fast-Loc-NeRF"><img src="https://img.shields.io/github/stars/kmk97/Fast-Loc-NeRF" alt="Fast-Loc-NeRF stars"></a></p>
+    <p><a href="https://github.com/kmk97/Fast-Loc-NeRF">[code]</a> <a href="https://arxiv.org/abs/2406.12202">[arXiv]</a>&nbsp;&nbsp;<a href="https://github.com/kmk97/Fast-Loc-NeRF"><img src="https://img.shields.io/github/stars/kmk97/Fast-Loc-NeRF" alt="Fast-Loc-NeRF stars"></a></p>
   </div>
 </div>
 
