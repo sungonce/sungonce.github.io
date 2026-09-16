@@ -46,7 +46,7 @@ I am interested in building algorithms and machines that can understand the worl
     <p class="paper-box-title">Rethinking Pose Refinement in 3D Gaussian Splatting under Pose Prior and Geometric Uncertainty</p>
     <p>Mangyu Kong, <strong>Seongwon Lee*</strong>, Euntai Kim*</p>
     <p>IEEE/CVF Conference on Computer Vision and Pattern Recognition (<span style="color:skyblue"><strong>CVPR</strong></span>), Jun 2026</p>
-    <p><a href="https://openaccess.thecvf.com/content/CVPR2026/html/Kong_Rethinking_Pose_Refinement_in_3D_Gaussian_Splatting_under_Pose_Prior_CVPR_2026_paper.html">[page]</a> <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Kong_Rethinking_Pose_Refinement_in_3D_Gaussian_Splatting_under_Pose_Prior_CVPR_2026_paper.pdf">[paper]</a> <a href="https://openaccess.thecvf.com/content/CVPR2026/supplemental/Kong_Rethinking_Pose_Refinement_CVPR_2026_supplemental.pdf">[supp]</a> <a href="https://kmk97.github.io/UGSLoc/">[project page]</a> <a href="https://github.com/kmk97/UGSLoc">[code]</a> <a href="https://youtu.be/9GXaK05DBvE">[video]</a> <a href="http://arxiv.org/abs/2603.16538">[arXiv]</a></p>
+    <p><a href="https://kmk97.github.io/UGSLoc/">[project page]</a> <a href="https://openaccess.thecvf.com/content/CVPR2026/html/Kong_Rethinking_Pose_Refinement_in_3D_Gaussian_Splatting_under_Pose_Prior_CVPR_2026_paper.html">[page]</a> <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Kong_Rethinking_Pose_Refinement_in_3D_Gaussian_Splatting_under_Pose_Prior_CVPR_2026_paper.pdf">[paper]</a> <a href="https://openaccess.thecvf.com/content/CVPR2026/supplemental/Kong_Rethinking_Pose_Refinement_CVPR_2026_supplemental.pdf">[supp]</a> <a href="https://youtu.be/9GXaK05DBvE">[video]</a> <a href="http://arxiv.org/abs/2603.16538">[arXiv]</a> <a href="https://github.com/kmk97/UGSLoc">[code]</a></p>
   </div>
 </div>
 
@@ -66,7 +66,7 @@ I am interested in building algorithms and machines that can understand the worl
     <p class="paper-box-title">VG3T: Visual Geometry Grounded Gaussian Transformer</p>
     <p>Junho Kim, <strong>Seongwon Lee*</strong></p>
     <p>IEEE International Conference on Robotics and Automation (<span style="color:skyblue"><strong>ICRA</strong></span>), Jun 2026</p>
-    <p><a href="https://junho2000.github.io/vg3t.github.io/">[project page]</a> <a href="https://github.com/junho2000/VG3T">[code]</a> <a href="https://arxiv.org/abs/2512.05988">[arXiv]</a></p>
+    <p><a href="https://junho2000.github.io/vg3t.github.io/">[project page]</a> <a href="https://arxiv.org/abs/2512.05988">[arXiv]</a> <a href="https://github.com/junho2000/VG3T">[code]</a></p>
   </div>
 </div>
 
@@ -86,7 +86,7 @@ I am interested in building algorithms and machines that can understand the worl
     <p class="paper-box-title">Fast Global Localization on Neural Radiance Field</p>
     <p>Mangyu Kong, Jaewon Lee, <strong>Seongwon Lee*</strong>, Euntai Kim*</p>
     <p>IEEE International Conference on Robotics and Automation (<span style="color:skyblue"><strong>ICRA</strong></span>), May 2025</p>
-    <p><a href="https://github.com/kmk97/Fast-Loc-NeRF">[code]</a> <a href="https://arxiv.org/abs/2406.12202">[arXiv]</a>&nbsp;&nbsp;<a href="https://github.com/kmk97/Fast-Loc-NeRF"><img src="https://img.shields.io/github/stars/kmk97/Fast-Loc-NeRF" alt="Fast-Loc-NeRF stars"></a></p>
+    <p><a href="https://arxiv.org/abs/2406.12202">[arXiv]</a> <a href="https://github.com/kmk97/Fast-Loc-NeRF">[code]</a>&nbsp;&nbsp;<a href="https://github.com/kmk97/Fast-Loc-NeRF"><img src="https://img.shields.io/github/stars/kmk97/Fast-Loc-NeRF" alt="Fast-Loc-NeRF stars"></a></p>
   </div>
 </div>
 
@@ -212,6 +212,10 @@ document.addEventListener('DOMContentLoaded', function () {
   - Excellence Vision Research Award - *Correlation Verification for Image Retrieval* (CVPR 2022)
 
 # 💼 Projects
+- *(Jul 2026 - Jun 2029)* Basic Research Laboratory for Next-Generation Hyper-Cognitive and Hyper-Adaptive Action Foundation Models
+  - Funding from Basic Research Laboratory (BRL) Program, National Research Foundation of Korea (NRF)
+- *(May 2026 - Nov 2026)* Demonstration of Digital Twin Learning and Scene Composition Technologies Based on 3D Reconstruction
+  - Funding from Electronics and Telecommunications Research Institute (ETRI)
 - *(Mar 2026 - Present)* Vision-based Cargo and Cargo Label Recognition on Robots in Logistics Warehouse Environments
   - Funding from BStar Robotics
 - *(Mar 2026 - Present)* Vision-Language Navigation Agents via Cyclic Expansion of Web-Scale Video, Augmented Simulation, and the Real World
