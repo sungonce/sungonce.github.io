@@ -21,37 +21,6 @@ I'm **Seongwon Lee**, a _assistant professor_ at the [School of Electrical Engin
 
 I am interested in building algorithms and machines that can understand the world and communicate with humans. My research focuses on learning deep networks that can solve a wide range of problems using a few general interfaces.
 
-# 🎉 News
-- *(Jun 2026)* 💼 Our lab has been awarded the Basic Research Laboratory (BRL) Program grant from NRF for research on Robot Foundation Models.
-- *(Jun 2026)* 📝 One paper has been accepted to IROS 2026.
-- *(May 2026)* 💼 Our lab has been awarded a research grant from Electronics and Telecommunications Research Institute (ETRI) for research on Vision-Language Navigation (VLN) Agents.
-- *(Mar 2026)* 💼 Our lab has been awarded a research grant from BStar Robotics for research on 3D Reconstruction for Logistics Warehouse Robots.
-- *(Mar 2026)* 💼 Our lab has been awarded the Young Researcher Program grant from NRF for research on Vision-Language Navigation (VLN) Agents.
-- *(Feb 2026)* 📝 Two papers have been accepted to CVPR 2026.
-- *(Jan 2026)* 📝 One paper has been accepted to ICRA 2026.
-- *(Sep 2025)* 🎤 Giving an invited talk about Neural Rendering: Creating Reality with AI @ Yonsei University.
-- *(Sep 2025)* 📝 One paper has been published in IEEE Transactions on Intelligent Vehicles (TIV) (IF: 14.0, JCR Top 2%).
-- *(Jul 2025)* 🎤 Giving an invited talk about Neural Rendering Using Vision and LiDAR and Its Application in Map Representation @ SOSLAB.
-- *(Jul 2025)* 🎤 Giving an invited talk about Recent Advances in Spatial AI: The Present and Future of Spatial Intelligence @ Gachon University.
-- *(Jun 2025)* 💼 Our lab has been awarded a research grant from Electronics and Telecommunications Research Institute (ETRI) for research on Brain Signal Based Image Generation.
-- *(Apr 2025)* 💼 Our lab has been awarded a research grant from Korea Electronics Technology Institute (KETI) for research on 3D Reconstruction of Vehicles.
-- *(Apr 2025)* 🎤 Giving an invited talk about Neural Rendering: NeRF and 3D Gaussian Splatting @ KETI.
-- *(Mar 2025)* 🎤 Giving an invited talk about Match and Extend: Visual-Based Matching and 3D Reconstruction Technology @ ETRI.
-- *(Feb 2025)* 📝 One paper has been accepted to ICRA 2025.
-- *(Nov 2024)* 📝 One paper has been published in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) (IF: 20.6, JCR Top 1%).
-- *(Oct 2024)* 📝 One paper has been accepted to IEEE Access (IF: 3.4, JCR Top 40%).
-- *(Aug 2024)* 👨‍🏫 I am starting my assistant professorship in Kookmin University.
-- *(Jul 2024)* 📝 One paper has been accepted to ECCVW 2024.
-- *(Jan 2024)* 🎤 Giving an invited talk about recent computer vision research trends @ Yonsei University. [[slide]](https://drive.google.com/file/d/1AS2djykCUuBL5o9tbf6CG_T8U4xLkZlB/view?usp=drive_link)
-- *(Oct 2023)* 🎤 Giving an invited talk about image retrieval @ Jeonbuk National University. [[slide]](https://drive.google.com/file/d/1fW5CCr2GB1FcbikLkqMRpAipIjUtzOMP/view?usp=drive_link)
-- *(Aug 2023)* 📝 One paper has been accepted to BMVC 2023.
-- *(Feb 2023)* 📝 One paper has been accepted to CVPR 2023.
-- *(Nov 2022)* 🏆 I won the [Qualcomm Innovation Fellowship 2022](https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners).
-- *(Oct 2022)* 🏆 I won the Excellence Vision Research Award at the 1st Yonsei AI Workshop.
-- *(Mar 2022)* 🏆 A paper titled "Correlation Verification for Image Retrieval" was selected for **Oral presentation** in CVPR 2022.
-- *(Mar 2022)* 📝 Two papers have been accepted to CVPR 2022.
-- *(Jul 2021)* 📝 One paper has been accepted to ICCV 2021.
-
 # 📚 Selected Publications
 [Google Scholar full list](https://scholar.google.com/citations?hl=en&user=wKlb8_gAAAAJ), `*` denotes corresponding author
 
@@ -67,7 +36,7 @@ I am interested in building algorithms and machines that can understand the worl
     <p class="paper-box-title">RayOcc: Occlusion-Agnostic Ray Occupancy Estimation via Gaussian Mixture Intensity</p>
     <p>Junho Kim, <strong>Seongwon Lee*</strong></p>
     <p>IEEE/RSJ International Conference on Intelligent Robots and Systems (<span style="color:skyblue"><strong>IROS</strong></span>), 2026</p>
-    <p>[coming soon]</p>
+    <p><a href="https://arxiv.org/abs/2607.17660">[arXiv]</a></p>
   </div>
 </div>
 
@@ -97,7 +66,7 @@ I am interested in building algorithms and machines that can understand the worl
     <p class="paper-box-title">VG3T: Visual Geometry Grounded Gaussian Transformer</p>
     <p>Junho Kim, <strong>Seongwon Lee*</strong></p>
     <p>IEEE International Conference on Robotics and Automation (<span style="color:skyblue"><strong>ICRA</strong></span>), Jun 2026</p>
-    <p><a href="https://arxiv.org/abs/2512.05988">[arXiv]</a></p>
+    <p><a href="https://junho2000.github.io/vg3t.github.io/">[project page]</a> <a href="https://github.com/junho2000/VG3T">[code]</a> <a href="https://arxiv.org/abs/2512.05988">[arXiv]</a></p>
   </div>
 </div>
 
