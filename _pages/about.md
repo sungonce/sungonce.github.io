@@ -103,7 +103,7 @@ I am interested in building algorithms and machines that can understand the worl
     <p class="paper-box-title">RayOcc: Occlusion-Aware Ray Occupancy Estimation via Gaussian Mixture Intensity</p>
     <p>Junho Kim, <strong>Seongwon Lee*</strong></p>
     <p>IEEE/RSJ International Conference on Intelligent Robots and Systems (<span style="color:skyblue"><strong>IROS</strong></span>), 2026</p>
-    <p><a href="https://junho2000.github.io/rayocc.github.io/">[project page]</a> <a href="https://arxiv.org/pdf/2607.17660">[paper]</a> <a href="https://arxiv.org/abs/2607.17660">[arXiv]</a> <a href="https://junho2000.github.io/rayocc.github.io/static/images/poster.pdf">[poster]</a> <a href="https://www.youtube.com/watch?v=zWqt4TjiGrQ">[video]</a></p>
+    <p><a href="https://cilab.kookmin.ac.kr/rayocc.github.io/">[project page]</a> <a href="https://arxiv.org/pdf/2607.17660">[paper]</a> <a href="https://arxiv.org/abs/2607.17660">[arXiv]</a> <a href="https://cilab.kookmin.ac.kr/rayocc.github.io/static/images/poster.pdf">[poster]</a> <a href="https://www.youtube.com/watch?v=zWqt4TjiGrQ">[video]</a></p>
   </div>
 </div>
 
@@ -133,7 +133,7 @@ I am interested in building algorithms and machines that can understand the worl
     <p class="paper-box-title">VG3T: Visual Geometry Grounded Gaussian Transformer</p>
     <p>Junho Kim, <strong>Seongwon Lee*</strong></p>
     <p>IEEE International Conference on Robotics and Automation (<span style="color:skyblue"><strong>ICRA</strong></span>), Jun 2026</p>
-    <p><a href="https://junho2000.github.io/vg3t.github.io/">[project page]</a> <a href="https://arxiv.org/pdf/2512.05988">[paper]</a> <a href="https://arxiv.org/abs/2512.05988">[arXiv]</a> <a href="https://github.com/junho2000/VG3T">[code]</a> <a href="https://www.youtube.com/watch?v=ZU3eOOWFAys">[video]</a></p>
+    <p><a href="https://cilab.kookmin.ac.kr/vg3t.github.io/">[project page]</a> <a href="https://arxiv.org/pdf/2512.05988">[paper]</a> <a href="https://arxiv.org/abs/2512.05988">[arXiv]</a> <a href="https://github.com/junho2000/VG3T">[code]</a> <a href="https://www.youtube.com/watch?v=ZU3eOOWFAys">[video]</a></p>
   </div>
 </div>
 
