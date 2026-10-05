@@ -97,16 +97,6 @@ I am interested in building algorithms and machines that can understand the worl
   </div>
 </div>
 
-<div class="paper-box" id="paper-25">
-  <div class="paper-box-image"><button type="button" class="publication-entry__thumbnail-button" data-publication-image="../images/kim2026selective.png" data-publication-title="Selective Appearance Refinement for Feed-Forward 3D Gaussian Splatting"><img class="publication-entry__thumbnail" src="../images/kim2026selective.png" alt="Selective Appearance Refinement for Feed-Forward 3D Gaussian Splatting thumbnail" loading="lazy"></button></div>
-  <div class="paper-box-text">
-    <p class="paper-box-title">Selective Appearance Refinement for Feed-Forward 3D Gaussian Splatting</p>
-    <p>Junho Kim, Jiseok Kim, <strong>Seongwon Lee*</strong></p>
-    <p>International Conference on Control, Automation, and Systems (<span style="color:skyblue"><strong>ICCAS</strong></span>), 2026</p>
-    <p><a href="../assets/bibtex/kim2026selective.bib" download>[Bib]</a></p>
-  </div>
-</div>
-
 <div class="paper-box" id="paper-2">
   <div class="paper-box-image"><button type="button" class="publication-entry__thumbnail-button" data-publication-image="../images/kim2026rayocc.png" data-publication-title="RayOcc: Occlusion-Aware Ray Occupancy Estimation via Gaussian Mixture Intensity"><img class="publication-entry__thumbnail" src="../images/kim2026rayocc.png" alt="RayOcc thumbnail"></button></div>
   <div class="paper-box-text">
