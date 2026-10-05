@@ -41,6 +41,7 @@
 @import "print";
 
 .paper-box {
+    scroll-margin-top: 5rem;
     display: grid;
     grid-template-columns: minmax(0, 1fr);
     grid-template-areas:
@@ -108,6 +109,15 @@
     }
 
 
+}
+
+.earlier-news {
+    margin-bottom: 1.5rem;
+}
+
+.earlier-news summary {
+    cursor: pointer;
+    font-weight: 600;
 }
 
 .publication-entry__thumbnail-button {

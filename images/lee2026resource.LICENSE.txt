@@ -1,0 +1,4 @@
+Figure 1 from Seongwon Lee, Hyukdoo Choi, and Hae Min Cho, "Resource-aware structural point-line RGB-D SLAM for dynamic indoor environments," Scientific Reports (2026).
+https://doi.org/10.1038/s41598-026-73677-3
+Copyright The Authors 2026. Creative Commons Attribution 4.0: https://creativecommons.org/licenses/by/4.0/
+Extracted from the article-in-press PDF and converted to lossless WebP; figure content and proportions unchanged.
