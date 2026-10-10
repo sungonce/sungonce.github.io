@@ -58,8 +58,11 @@ $(document).ready(function(){
   });
 
   // init smooth scroll
-  // Native paper anchors respect scroll-margin-top below the sticky navigation.
-  $("a").not("a[href^='#paper-']").smoothScroll({offset: -20});
+  $("a").smoothScroll({offset: -20});
+  // Keep paper titles below the sticky navigation at the current viewport size.
+  $("a[href^='#paper-']").smoothScroll({beforeScroll: function(options) {
+    options.offset = -$(".masthead").outerHeight() - 20;
+  }});
 
   // add lightbox class to all image links
   $("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.JPG'],a[href$='.png'],a[href$='.gif']").addClass("image-popup");
